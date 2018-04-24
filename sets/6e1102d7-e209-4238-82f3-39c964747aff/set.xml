@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" 
+     name="Attack on Titan"
+     id="6e1102d7-e209-4238-82f3-39c964747aff" 
+     gameId="fc640978-3b90-4e62-ac0d-55c3cb43961a" 
+     gameVersion="0.0.0.1" 
+     version="0.0.0.1">
+<cards>
+<card id="138816d9-57ef-47c6-8bb5-faebbe07bde5" name="Armin Arlet - Young Genius">
+<property name="Card Number" value="C1-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="4" />
+<property name="Text" value="CONTINUOUS: Negate the effects of all Battle Cards with a rank of 1 or 2." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="4" />
+</card>
+<card id="8e4f01a0-e18d-433e-8689-e74d0165ed88" name="Christa Lenz - Noble Daughter">
+<property name="Card Number" value="C2-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS: Only 1 character may attack each turn. At the end of your turn, KO this card if no Characters attacked this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="7a687064-4b91-40c2-a899-1218ec67d035" name="Ymir - Freckles">
+<property name="Card Number" value="C3-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTInUOUS: Whenever this card Links, search your discard pile for an Intelligence Battle Card and place it in your hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="4c4992e7-e165-42f0-bf80-7c431e8c1254" name="Hannes - Family Friend">
+<property name="Card Number" value="C4-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Garrison Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Play a Garrison Regiment Character from your hand to draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="bc2c390f-9b71-4608-a768-530e1594d096" name="Kitz Woermann - Paranoid">
+<property name="Card Number" value="C5-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Garrison Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Place a card from your discard pile on the bottom of your deck." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="ef5998a4-7f86-4f17-9147-1d2406f825e8" name="Rico Brzenska - Composed Leader">
+<property name="Card Number" value="C6-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Garrison Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="PUSH: Return a Garrison Regiment Character you control to its owner's hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="bee82fcf-dd63-461d-838b-1e0c6c965d91" name="Hitch Dreyse - Persuasive">
+<property name="Card Number" value="C7-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Military Police Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: If your opponent's MP total is higher than yours, gain 3 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="611d62fc-ff6f-4d93-b7a8-9ff61d9fbbc7" name="Marlo Freudenberg - Bowl Cut">
+<property name="Card Number" value="C8-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Military Police Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw 2 cards, then discard 2 cards from your hand unless you discard a Military Police Regiment Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="5354ddc2-abd8-4b50-86b3-1b20ea1ada05" name="Eld Gin - Adept Slayer">
+<property name="Card Number" value="C9-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS At the start of your turn, you may shuffle this card into its owner's deck. Battle Cards with a rank of 6 or 7 cannot be attached to your Scout Regiment Characters involved in a Team Attack." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="55225fb2-40f1-4c14-8f99-685f811bae8b" name="Eren Jaeger - Suicidal Bastard">
+<property name="Card Number" value="C10-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: If your opponent controls more than 1 Character, you may play a Scout Regiment Character from your discard pile." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="453d6db7-644c-45a9-8290-a043a6332a89" name="Jean Kirschtein - Confident">
+<property name="Card Number" value="C11-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="4" />
+<property name="Text" value="CONTINUOUS: whenever a Battle Card is attached to this character, discard the top card of your deck." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="8ddc1b5b-b315-40e2-a2a5-43dae73a829d" name="Orou Bozad - Outspoken">
+<property name="Card Number" value="C12-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="CONTINUOUS: Whenever this card Links to a Team Attack led by a Scout Regiment Character, gain 1 VP." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="6b13d49b-93a9-4a22-b482-ab5fb2e3a4f8" name="Petra Rall - Kind Scout">
+<property name="Card Number" value="C13-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Your opponent reveals their hand.  Draw a card for each Event revealed." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="e60d3bca-74ce-4825-89e5-e883661d7bbb" name="Grisha Jaeger - Doctor">
+<property name="Card Number" value="C14-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Human" />
+<property name="MP" value="4" />
+<property name="Text" value="PUSH: Discard all Battle Cards attached to target character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="d9b2e667-b348-4861-a6ec-70bd797d24a2" name="Towering Titan - Hungry">
+<property name="Card Number" value="C15-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS: This card cannot be TKO'd." />
+<property name="Strength" value="8" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="081452c8-c4f1-46b7-80e8-226a0f5c3199" name="Backup">
+<property name="Card Number" value="C16-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Place a Character from your discard pile on the bottom of your deck, then place a Character from your discard pile on top of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1c009c4f-1294-4ba1-a1c1-317b61b94d74" name="Camaraderie">
+<property name="Card Number" value="C17-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control only Characters with the same Trait, you may KO a Character you control to draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="61c20ca6-ddf1-40c6-be64-fb2fe099806c" name="Devastation">
+<property name="Card Number" value="C18-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Push a Scout Regiment Character you control to search your deck for a Cadet Crops Character and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="291f5128-113b-4cc6-8adb-85c18d596ecd" name="Devour">
+<property name="Card Number" value="C19-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Gain 2 MP for each Titan Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d0e4bb90-e600-4bba-94a0-a3113a6aafa8" name="Elite Scout Regiment">
+<property name="Card Number" value="C20-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Shuffle a Scout Regiment Character you control into its owner's deck to search your deck or discard pile for a Scout Regiment Character with a CONTINUOUS effect and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e4d37799-ae87-4f12-83ff-db89499d7bc5" name="Exhaustion">
+<property name="Card Number" value="C21-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Each player searches their deck for a Character or Event and discards it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="35b5fa7f-92c7-4501-9b3b-513a272b6832" name="Finisher">
+<property name="Card Number" value="C22-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="KO target damaged Character with a maximum rank of 7 or higher ot draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3e2d3959-4758-41bd-ac67-d5138ce513cc" name="Frightened">
+<property name="Card Number" value="C23-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Your opponent's Battle Card effects are negated until the end of the turn. Search your discard pile for a Basic Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="4ad04f42-3e8d-4831-9c7d-82708b575d06" name="Hearty Meal">
+<property name="Card Number" value="C24-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Each player may discard a Battle Card attached to a Character they control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ba0a111c-5d84-4621-a145-56c0a2488c86" name="Joke's On You">
+<property name="Card Number" value="C25-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place 2 Battle Cards from your discard pile into your hand, then discard a random card from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="58a38ec9-14f9-4290-872b-fb85ba319adb" name="Machinations">
+<property name="Card Number" value="C26-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Discard an Intelligence Battle Card with a rank of 7 from your hand to discard a random card from your opponent's VP pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0f644403-88f0-4031-ba51-0b22412f7dbd" name="Open War">
+<property name="Card Number" value="C27-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Each player reveals their hand. Target Character may perform an attack without playing a Battle Card this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="bdd46ce6-6e16-4d78-8f0d-483b86748064" name="Rank and File">
+<property name="Card Number" value="C28-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Discard a card from your hand to draw the bottom 2 cards of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="bbdbbca0-120f-4991-b9e3-25b784f459e0" name="Recruitment">
+<property name="Card Number" value="C29-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Until the end of your next turn, Characters you control gain the Scout Regiment Trait. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="31415490-6355-4cef-8673-62fc3ed2af97" name="Tension">
+<property name="Card Number" value="C30-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Target Character cannot attack next turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b6916c5f-dd8b-443e-ab6e-c2c680d0eb07" name="Training">
+<property name="Card Number" value="C31-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you control a Cadet Corps Character, search your deck for a Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6efd6a12-fcff-47f7-8870-6caeb5b527ac" name="Triple Threat">
+<property name="Card Number" value="C32-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Attach 2 Battle Cards with a rank of 3 from your discard pile to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="44486c1e-783b-426e-8eee-d1ce3af6c596" name="Intelligence 1">
+<property name="Card Number" value="C33-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="At the end of the turn, prep all Scout Regiment Characters you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="42cbeecb-bf5e-453f-bf3e-5fb8c81c2599" name="Intelligence 1">
+<property name="Card Number" value="C34-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: Shuffle a card from your hand into your deck, then draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="072f14d3-af6c-45b6-9d51-530d864c50ed" name="Special 1">
+<property name="Card Number" value="C35-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: If the Character using this card is KO'd this turn, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="4003491d-5129-466d-abeb-1c145d47418b" name="Strength 1">
+<property name="Card Number" value="C36-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Draw 2 cards, then discard a random card from your hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c0ef4b00-bfc4-4917-ac10-0f7e4ecbc6ff" name="Intelligence 2">
+<property name="Card Number" value="C37-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND Gain 2 MP. The Character using this card cannot attack next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="c2450d84-ac80-4365-a2d9-ea64b1c2b5fd" name="Special 2">
+<property name="Card Number" value="C38-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Gain 1 MP for each different Trait you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="9b8d273a-dbb2-4be5-8370-0fce98c75cc9" name="Special 2">
+<property name="Card Number" value="C39-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: Set each player's MP to 3." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="d004f555-b6db-4af7-8ab7-6c4997a0425c" name="Strength 2">
+<property name="Card Number" value="C40-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: You may KO a Character you control outside of the Battle Zone to draw 2 cards." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c73634d7-8b84-43d7-8cd5-70f7272c2a8b" name="Intelligence 3">
+<property name="Card Number" value="C41-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Draw a card for each Military Police Regiment Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="7e2d5d43-8032-4a2a-a01e-b9fa6cb60f4e" name="Strength 3">
+<property name="Card Number" value="C42-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: Characters with the same Trait as this card's user may attack this turn." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6598dc38-2510-43be-b542-fb4b21c5a572" name="Strength 3">
+<property name="Card Number" value="C43-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="DEFEND: You may return a Regiment Character you control outside of the Battle Zone to its owner's hand." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="5141b303-f082-4e1f-a352-f4a37b801e2b" name="Intelligence 4">
+<property name="Card Number" value="C44-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Shuffle up to 3 Scout Regiment Characters from your discard pile into your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="e268ec9d-8769-4be1-9441-187f0cc7b738" name="Intelligence 4">
+<property name="Card Number" value="C45-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: Your opponent loses -3 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="c293a71c-0f77-4a62-9c76-a020b0c056a2" name="Special 4">
+<property name="Card Number" value="C46-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="If this card KO's a Character, place a Scout Regiment or Cadet Corps Character from your discard pile into your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="4ae97841-2b95-4c63-a059-927d13893bae" name="Special 4">
+<property name="Card Number" value="C47-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Until the end of your next turn, Characters may attack and Link the turn they enter play." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="3ec1ed5d-b2bd-4c08-bfdf-6ac4ff4b84d8" name="Strength 4">
+<property name="Card Number" value="C48-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Each player draws a card, then discards a card from their hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b2448999-eee1-4fd7-b39a-096222355c0c" name="Intelligence 5">
+<property name="Card Number" value="C49-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: Prep target Character with Intelligence of rank 5 or higher." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="944361ad-3ab4-4e7c-983f-77713c9b2385" name="Special 5">
+<property name="Card Number" value="C50-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, search your discard pile for a Character with a CONTINUOUS effect and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="31a9ea4f-acfe-4a30-aab2-0b491141a99b" name="Strength 5">
+<property name="Card Number" value="C51-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, discard a random card from your opponent's hand." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="32c3e65e-b056-45c7-8216-8fdd752b85a4" name="Strength 5">
+<property name="Card Number" value="C52-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: If this card is used to defend a Multi-Stat Battle Card, draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2370bcce-8b89-4126-8e62-d5916083b81c" name="Intelligence / Special 6">
+<property name="Card Number" value="C53-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If this card is used by a Scout Regiment Character, until the end of your next turn your characters may Link for 0 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="74591897-f785-4c4c-b506-a0ac68503ad3" name="Intelligence 6">
+<property name="Card Number" value="C54-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Your pushed Characters cannot be targeted until the end of the next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="aeafe1d0-9572-4d0d-8d4e-126760aa89f3" name="Intelligence 6">
+<property name="Card Number" value="C55-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: Shuffle any number of cards from your hand into your deck, then draw the same amount back." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="117ff448-6d2d-43d5-8d09-5c4a8ce57ab9" name="Strength 6">
+<property name="Card Number" value="C56-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Until the end of your next turn, your Titan Characters may play any Strength Battle Cards without paying their MP costs." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="03ab3c2b-c732-4938-8e19-4a4d28edf509" name="Strength 6">
+<property name="Card Number" value="C57-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: You may push a Character you control outside of the Battle Zone to push target character." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8c40edd9-ca98-487d-8e1c-b0a4c0beac55" name="Intelligence 7">
+<property name="Card Number" value="C58-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: You may push target Character with three stats." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="5d3ded31-9d72-465f-ad39-0f82a6ce7350" name="Special 7">
+<property name="Card Number" value="C59-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: This card may be played by any character leading a Team Attack." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="b94adee8-c920-4598-886e-397d03a8a0d2" name="Strength 7">
+<property name="Card Number" value="C60-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: Until the end of your next turn, reduce the cost of your Strength Battle Cards by -2 MP." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ba1e4857-f1da-47ea-a399-3f90afe8e280" name="Conny Springer - Outgoing Cadet">
+<property name="Card Number" value="U61-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS: Your pushed Characters cannot be targeted." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="db33325a-85ae-4b84-b014-1ca6b4808e23" name="Jean Kirschtein - Hot Head">
+<property name="Card Number" value="U62-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="CoNTINUOUS: Whenever an opponent's effect discards 1 or more cards from your hand, discard the top 2 cards of your opponent's deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="4" />
+</card>
+<card id="1408b0c0-6048-4208-843b-1c5178b29609" name="Bertholdt Hoover - Quiet Teammate">
+<property name="Card Number" value="U63-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: If you control another Scout Regiment Character, gain 1 MP for each card in your hand, to a maximum of 5." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="ddfce390-ebc3-479f-9c75-f6beb7a80504" name="Captain Levi - Humanity's Strongest Soldier">
+<property name="Card Number" value="U64-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Until the end of your next turn, your Scout Regiment Characters cannot be targeted, may Link the turn they enter play, and may Link for 0 MP." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="56d257d7-e2a5-41f5-9db0-4be663ce59e8" name="Erwin Smith - Commanding Presence">
+<property name="Card Number" value="U65-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="CONTINUOUS: Whenever this card preps, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="3" />
+</card>
+<card id="6cd767a6-5517-4790-b8ba-4e507e33a590" name="Hange Zoe - Quirky Scientist">
+<property name="Card Number" value="U66-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Place a card from your hand on the bottom of your deck to draw 2 cards." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="671ad58b-64e6-401b-82d4-1e5ba747b4de" name="Miche Zacharius - Section Commander">
+<property name="Card Number" value="U67-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: If you control another Scout Regiment Character, you may KO target pushed Character." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="ee85ce0c-ea04-4f7f-90f4-f85857b35ce3" name="Mikasa Ackermann - Lethal Force">
+<property name="Card Number" value="U68-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="CONTINUOUS: Whenever this card gains a VP, at the end of the turn you may shuffle it into its owner's deck to search your deck for a Scout Regiment Character and play it." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="82444675-437a-46d9-914c-7a638c0a918d" name="Reiner Braun - Reliable">
+<property name="Card Number" value="U69-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Your opponent discards a random card from their hand, then each player draws a card." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="ce0b53c4-a8a8-4838-ade2-f5607c39505b" name="Proud Titan">
+<property name="Card Number" value="U70-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="1" />
+<property name="Text" value="KO target Character with a Strength Battle Card attached as Damage." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="44bd5354-ea5a-4d91-b0a0-591f395ac3f3" name="Cunning Plot">
+<property name="Card Number" value="U71-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Each player may play a Character from their discard pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b7cde082-979f-4a6d-812e-b3f105e19998" name="Flanking">
+<property name="Card Number" value="U72-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="You cannot gain MP this turn. KO any number of Characters you control then play up to 2 Scout Regiment Characters from your discard pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="603bfe10-be70-4050-a13f-461828f8a9d7" name="Painful Choice">
+<property name="Card Number" value="U73-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Each player KO's a Character they control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="5bafb2ea-7682-491b-bf8a-383d6e64353a" name="Perseverance">
+<property name="Card Number" value="U74-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-6" />
+<property name="Text" value="Draw a card for each Character you control with a maximum Rank of 6, then gain 3 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="437ea22e-c7e3-456e-ae22-0af1973836bb" name="Potato">
+<property name="Card Number" value="U75-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Whenever a Scout Regiment Cadet Corps Character is played this turn, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8d52b40b-2d4d-4ed3-829e-cb68becbf5fc" name="Preparations">
+<property name="Card Number" value="U76-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Draw 2 cards, then end your Planning Step." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d957a0c3-cc27-4cab-a841-605b0aa6c991" name="Diversity">
+<property name="Card Number" value="U77-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="If you control 2 or more different Traits, search your discard pile for a Character and Battle Card and place them in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fc33be1d-0196-4315-91bd-42b9d49347db" name="Synchronicity">
+<property name="Card Number" value="U78-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Draw a card. If a Scout Regiment Character performs a Team Attack this turn, discard a random card from your opponent's VP pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="eecd55b1-e24f-457a-a982-22b678d902e5" name="Teamwork">
+<property name="Card Number" value="U79-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="At the end of your turn, prep all Characters that were involved in a Team Attack this turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="588a1cc8-042d-439a-a85a-58d1fff80234" name="Wall Breach">
+<property name="Card Number" value="U80-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Characters with a maximum rank of 5 or less may not defend Titan Characters this turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2e3b80c5-cb53-4202-8dee-5150c824d4b4" name="Special 1">
+<property name="Card Number" value="U81-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="DEFEND: At the end of the turn, you may choose a Battle Card attached to this card's user and attach it to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="d8652a6f-e5ad-4705-9e23-05a2dd686eaa" name="Strength / Intelligence 1">
+<property name="Card Number" value="U82-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: At the end of the turn, you may KO target Character. Its controller may play a different Character from their discard pile." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="cd842863-5e72-49cb-8b3d-7dfb56698f49" name="Strength 1">
+<property name="Card Number" value="U83-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: Until the start of your next turn, Characters you control with Strength cannot be targeted by your opponent's effects." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c8007760-335d-4d7e-94a5-d25cad20f008" name="Intelligence 2">
+<property name="Card Number" value="U84-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Draw 2 cards, then place a card from your hand on the bottom of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="83ba34da-fed7-4eeb-897e-dfa2a6b37bea" name="Special 2">
+<property name="Card Number" value="U85-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: If you Link 2 Scout Regiment Characters to this attack, KO target Character your opponent controls." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="b7b932e7-0eb3-41f7-8795-51a1aa84c9bd" name="Strength 2">
+<property name="Card Number" value="U86-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="If target Character enters the Battle Zone this turn, draw a card." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8e7bce1c-5d71-4ae2-a2ab-fdc5bcad350e" name="Intelligence 3">
+<property name="Card Number" value="U87-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Prep target character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="ae8fbba5-1aae-4eff-b93e-1638add33109" name="Intelligence 3">
+<property name="Card Number" value="U88-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Discard all Battle Cards attached to Garrison Regiment Characters you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="1ff1335b-0ec9-4625-912d-a3473830e8f6" name="Strength 3">
+<property name="Card Number" value="U89-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Negate the effects of all non-Titan characters until the end of the turn." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="affbfe9c-d962-4437-a6c0-1b95d455c86e" name="Intelligence 4">
+<property name="Card Number" value="U90-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: At the end of the turn, prep all damaged Characters." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="d7bdcbb0-cc9a-4525-bc85-4b7f7b7ed449" name="Strength 4">
+<property name="Card Number" value="U91-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, look at your opponent's hand and draw a card." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3a0ca343-39eb-47cb-9c85-df0ddfb7941e" name="Intelligence 5">
+<property name="Card Number" value="U92-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, you may KO target Character your opponent controls with a maximum rank of 7 or higher." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="0f03f022-a1b7-4f24-863c-b630718e89da" name="Special 5">
+<property name="Card Number" value="U93-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Until the end of the turn, Battle Cards from a Team Attack cannot be attached to the character using this card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="7ded887d-6341-4c61-9b50-a3c43e2904d5" name="Strength 5">
+<property name="Card Number" value="U94-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Your opponent may discard a card from their hand.  If they do not, draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="370de821-75c7-4187-9850-62cf60ff6534" name="Special 6">
+<property name="Card Number" value="U95-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: If your opponent assigns any defends this turn, they must defend this attack first if possible." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="c27ab546-31e5-4c1d-9adb-58871e7b4211" name="Strength 6">
+<property name="Card Number" value="U96-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Until the end of your turn, negate all DEFEND effects." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e51156b8-e38e-4606-89f7-e9f01c23b7d1" name="Intelligence 7">
+<property name="Card Number" value="U97-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If another Battle Card with a rank of 7 has been played this turn, gain 5 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="2371f151-41a5-46a8-8d4c-3462eedd275f" name="Special 7">
+<property name="Card Number" value="U98-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="DEFEND: Discard a random card from your opponent's VP pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="bc376950-c553-44bf-bba9-121507cc765e" name="Strength / Intelligence / Special 7">
+<property name="Card Number" value="U99-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="7" />
+</card>
+<card id="ea6a49ff-6574-4f7e-9616-c95d58ea89f9" name="Strength 7">
+<property name="Card Number" value="U100-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: If this card gains a VP and is not defended, you may KO target prepped character." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="46892a03-fc09-49ed-a648-67594bfffb0b" name="Eren Jaeger - Determined Trainee">
+<property name="Card Number" value="R101-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Choose up to 3 cards from your opponent's discard pile, then swap each of them face down with a random card in your VP pile." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="7" />
+</card>
+<card id="e358d1e2-c773-4567-b480-7abde0e7ae29" name="Commander Pyxis - Eccentric">
+<property name="Card Number" value="R102-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Garrison Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Draw the bottom card of your deck." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="4" />
+</card>
+<card id="55a3669f-4f5d-40e5-b0cf-416b453371b1" name="Dhalis Zachary - Commander in Chief">
+<property name="Card Number" value="R103-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Garrison Regiment" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Place up to 2 Garrison Regiment Characters not named Dhalis Zachary from your discard pile to your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="0d5d46ff-ff95-4c18-95d2-3a396890b187" name="Annie Leonhart - Solemn Warrior">
+<property name="Card Number" value="R104-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Military Police Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: If you control another Military Police Regiment Character, your opponent chooses and KO's a Character they control." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="3" />
+</card>
+<card id="5f3b8e3c-413a-4a93-89be-53c691b503be" name="Nile Dawk - Military Police Commander">
+<property name="Card Number" value="R105-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Military Police Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Shuffle a Military Police Regiment Character you control into its owner's deck to draw 2 cards." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="25260e16-60d6-48a8-9ccd-3ed2d8ee16fd" name="Armin Arlet - Strategist">
+<property name="Card Number" value="R106-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS: At the end of your turn, prep any Scout Regiment Characters that Team Attacked this turn." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="f17028a0-351b-4059-8626-2835ed60ba89" name="Mikasa Ackermann - Stoic">
+<property name="Card Number" value="R107-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Search your deck for a card and discard it." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="67a7dadd-7110-4f8b-a39c-0036868e63ba" name="Sasha Braus - Potato Girl">
+<property name="Card Number" value="R108-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Cadet Corps" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Search your discard pile for a Potato and place it in your hand." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="aaae3822-e09c-42cf-a477-59bd7b465f27" name="Big Mouth Titan - Rampaging">
+<property name="Card Number" value="R109-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="0" />
+<property name="Text" value="CONTINUOUS: Your other Titan Characters cannot be targeted." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="3" />
+</card>
+<card id="2b3776cd-4bcf-49a9-9fc4-ee88459d591c" name="Crawling Titan - Surprisingly Quick">
+<property name="Card Number" value="R110-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="3" />
+<property name="Text" value="CONTINUOUS: Your Titan Characters may play any Battle Cards." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="3" />
+</card>
+<card id="3cec5cd9-896b-47aa-846d-995fc92d223c" name="Sullen Titan - Drooling">
+<property name="Card Number" value="R111-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: KO target Character with a maximum rank of 5 or less." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="b8bd59a1-4f0e-4422-97fa-56ebdff2880d" name="Brutality">
+<property name="Card Number" value="R112-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-7" />
+<property name="Text" value="If you control three Titan Characters, target 4 Characters and KO them." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0a24ce8c-ac6b-4b4b-b575-f26000f22aa0" name="Discipline">
+<property name="Card Number" value="R113-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Discard a Military Police Regiment Character from your hand to shuffle 4 non-Event cards from your discard pile into their owner's deck. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d0c9d9b7-95e0-4868-ba0d-ba41a7a5ad6c" name="Standstill">
+<property name="Card Number" value="R114-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="For each prepped Character your opponent controls, draw a card and gain 1 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="630ee3fe-d809-40e1-9763-8d416cb0739f" name="Epic Battle">
+<property name="Card Number" value="R115-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-7" />
+<property name="Text" value="KO all Characters, then play a Character with a rank of 7 or higher from your discard pile. Your opponent may play a Character from their discard pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3f236b07-8cd6-4667-a200-1e08b6b2d154" name="If You Don't Fight You Can't Win">
+<property name="Card Number" value="R116-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Your Scout Regiment Characters that entered play this turn may perform attacks and Link, if you control Eren Jaeger and Mikasa Ackermann, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ef3af943-de54-4711-9738-3f8000c465fa" name="Omni-Directional Mobility Gear">
+<property name="Card Number" value="R117-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If you control a Scout Regiment Character, return target Character to its owner's hand.  If the targeted Character is a Titan, KO it instead." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="4a2ea4fa-e1c1-43c3-92a4-1504b7764d42" name="Rampage">
+<property name="Card Number" value="R118-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="If you control a Titan Character, KO a random Character your opponent controls." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9dfbe37b-5d5e-4cbe-a1a1-94536c95dc7f" name="Research">
+<property name="Card Number" value="R119-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Choose a card in your discard pile, then search your deck for a copy of that card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a68109d0-6fb3-4664-888a-333b57e52f7a" name="Retreat">
+<property name="Card Number" value="R120-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="At the end of your turn, prep all Scout Regiment Characters you control. Until the end of the next turn, your Characters may defend without playing a Battle Card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6a90653a-41bd-48ac-a2db-40dd66dec023" name="Stability">
+<property name="Card Number" value="R121-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Gain 8 MP or draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="5424891d-36ff-4dee-bc67-0d1b667b35bf" name="Steam">
+<property name="Card Number" value="R122-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Search your opponent's VP pile for a Titan Character and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7171e423-42c2-466c-8b71-ec6cd05675b5" name="Titanic Transformation">
+<property name="Card Number" value="R123-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="KO a non-Titan Character you control to search your deck for a Titan Character and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="5e7ca5aa-459a-4654-95da-0f2339190fa5" name="Volley">
+<property name="Card Number" value="R124-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Reveal your hand. If no Battle Cards are revealed, search your deck for up to 2 Battle Cards with a rank of 2 and place them in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1d149bce-341d-45de-bc7d-f4962888921d" name="Special 1">
+<property name="Card Number" value="R125-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Draw the bottom card of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="7a786854-4dea-4265-a401-c452facd09d7" name="Strength 1">
+<property name="Card Number" value="R126-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: Push target Character. If that Character has a CONTINUOUS effect, KO it at the end of the turn." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f5b19e64-8232-4c94-98de-7839716c0dcf" name="Intelligence 2">
+<property name="Card Number" value="R127-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Look at the top 4 cards of your deck, then place 1 of them in your hand and the rest on the bottom of your deck in any order." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="b498f788-0ee0-4bc6-ad21-7f864a286313" name="Strength 2">
+<property name="Card Number" value="R128-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: If this card is attached to a damaged Character this turn, KO it." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f9491e99-ac57-4dc5-b023-b83a9d428a95" name="Intelligence 3">
+<property name="Card Number" value="R129-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="If your opponent controls more Characters than you, search your discard pile for up to 2 Characters and place them in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="a96d166d-5008-4103-a546-f0c953f53a7d" name="Special 3">
+<property name="Card Number" value="R130-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: You may discard a card from your hand to attach a Battle Card with a rank of 1 from your discard pile to target character outside the Battle Zone." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="b815e29f-dcf9-443f-82fc-0e45c5445f0e" name="Strength / Intelligence / Special 3">
+<property name="Card Number" value="R131-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If this card is used by a Character with a maximum rank of 7 or higher, draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="3" />
+</card>
+<card id="a4bb13d3-4f22-4d4d-968d-3b4f3bef2787" name="Special 4">
+<property name="Card Number" value="R132-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="ATTACK: Draw a card for each other Rank 4 Battle Card in your discard pile, to a maximum of 4." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="9130d189-a07f-4e1f-b67a-acc8e5948966" name="Strength / Special 4">
+<property name="Card Number" value="R133-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="DEFEND: You may KO target Character outside of the Battle Zone. If that Character has entered play this turn, discard your hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="5057e275-edb3-479d-9b5d-d4f8e72accf7" name="Special 5">
+<property name="Card Number" value="R134-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, push target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="458f894d-c599-4e1e-9d17-7fcc5b430e57" name="Special 5">
+<property name="Card Number" value="R135-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If more than one Character was played this turn, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="78100ea9-c35f-4b51-8b98-bb5604163053" name="Intelligence 6">
+<property name="Card Number" value="R136-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="ATTACK: Reveal the top card of your deck.  If it is a Character with a CONTINUOUS effect, you may play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="2444480e-2dd9-4e37-a7b8-12447c91130a" name="Special 6">
+<property name="Card Number" value="R137-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="DEFEND: At the end of the turn, return target prepped Character your opponent controls to its owner's hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="8d6b45c8-e21c-4890-b7cc-c9bc76078574" name="Intelligence 7">
+<property name="Card Number" value="R138-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: Name a Trait, then reveal the top card of your opponent's deck. If the chosen Trait was revealed, gain 1 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="06a86e91-2378-4051-bc0c-d1a40f2d8f63" name="Special 7">
+<property name="Card Number" value="R139-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-7" />
+<property name="Text" value="If your opponent has more than 4 VP, discard random cards from theirVP pile until they have 4 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="c03ec7ad-2181-4e4c-ad09-b57791dc3b9b" name="Strength 7">
+<property name="Card Number" value="R140-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Draw a card for each prepped Character your opponent controls." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8ea18199-2b76-4a72-98ff-94c7884377f3" name="Armored Titan - Wallbreaker">
+<property name="Card Number" value="XR141-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="0" />
+<property name="Text" value="CONTINUOUS: Your opponent must discard a card from their hand to assign a defender to this card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1d09920f-4919-482d-9db3-e0d74543ab96" name="Colossal Titan - God of Destruction">
+<property name="Card Number" value="XR142-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Reveal each players' hand, then choose a revealed Battle Card with a rank of 2 or less to discard." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1f269b42-7525-42c3-94ab-32f3cf4b42f2" name="Eren Jaeger - Mysterious titan">
+<property name="Card Number" value="XR143-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="2" />
+<property name="Text" value="CONTINUOUS: At the end of your turn, discard any Battle Cards with a rank of 4 or less attached to this card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="eca0d6c6-6a6e-437f-b2cd-52964c6fb772" name="Female Titan - Hardened Warrior">
+<property name="Card Number" value="XR144-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Titan" />
+<property name="MP" value="1" />
+<property name="Text" value="CONTINUOUS: After this card is KO'd by an effect, you may pay -2 MP.  If you do, you may play this card from your discard pile at the end of the turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d4359b10-3e42-4d9d-8275-f85eeec3987d" name="Captain Levi - Juggernaut">
+<property name="Card Number" value="UR145-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: You may discard your hand to draw 4 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="76072954-e78f-4199-9915-2b163040f164" name="Mikasa Ackermann - Battle Genius">
+<property name="Card Number" value="UR146-AT" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Scout Regiment" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Search your deck for a ATTACK Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1d658b35-af49-4db2-af78-a0a96eb9d627" name="Backup">
+<property name="Card Number" value="S1-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Place a Character from your discard pile on the bottom of your deck, then place a Character from your discard pile on top of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0f8be412-5aa8-45e7-b9b2-99438633d50e" name="Elite Scout Regiment">
+<property name="Card Number" value="S2-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Shuffle a Scout Regiment Character you control into its owner's deck to search your deck or discard pile for a Scout Regiment Character with a CONTINUOUS effect and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7cee43a8-6c9b-4532-aaba-d973cb84ddbf" name="Hearty Meal">
+<property name="Card Number" value="S3-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Each player may discard a Battle Card attached to a Character they control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="00db2b6d-6ba0-42e2-a437-0a8492f3d215" name="Joke's On You">
+<property name="Card Number" value="S4-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place 2 Battle Cards from your discard pile into your hand, then discard a random card from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3660ef2a-7e7a-4676-88cd-f2cf7a424ca5" name="Preparations">
+<property name="Card Number" value="S5-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Draw 2 cards, then end your Planning Step." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="45b286f6-bcfa-4aac-bacc-6980e494cb08" name="Rank and File">
+<property name="Card Number" value="S6-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Discard a card from your hand to draw the bottom 2 cards of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8a29c349-c56d-4e1f-b6cc-4c0623c20f21" name="Recruitment">
+<property name="Card Number" value="S7-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Until the end of your next turn, Characters you control gain the Scout Regiment Trait. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="36278280-28b8-4d6e-b0f7-123ed1d90922" name="Tension">
+<property name="Card Number" value="S8-AT" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Target Character cannot attack next turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fc33b68b-9b2d-4cd9-a762-2a3319bdd547" name="Intelligence 1">
+<property name="Card Number" value="S9-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="cbea203f-a60a-4a01-98b1-12e93458d185" name="Special 1">
+<property name="Card Number" value="S10-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="6f1c1f30-5467-4780-8479-01dba50f04e7" name="Strength 1">
+<property name="Card Number" value="S11-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9feaa211-7425-4c52-b335-6f7ec12e3975" name="Intelligence 2">
+<property name="Card Number" value="S12-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="fd36467d-ed2b-4bc3-931d-0eff1d267857" name="Special 2">
+<property name="Card Number" value="S13-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="be7f406a-04fc-44c6-a60d-14613c5c7ed4" name="Strength 2">
+<property name="Card Number" value="S14-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9343266d-ddc4-47be-b0a0-43f1b117071b" name="Intelligence 3">
+<property name="Card Number" value="S15-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="37ee0b12-07d5-49b4-bcc3-bcf61357cfbe" name="Special 3">
+<property name="Card Number" value="S16-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="32cd4eb7-fb3a-426b-ae86-4d8580e3ff73" name="Strength 3">
+<property name="Card Number" value="S17-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c7b08bb6-8e02-4480-a8c6-aa00b55febc0" name="Intelligence 4">
+<property name="Card Number" value="S18-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="4dfb609b-d6ab-4d22-8be8-cbbcdb5ee25c" name="Special 4">
+<property name="Card Number" value="S19-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="8b800654-8655-45a1-a0da-352f604eb38e" name="Strength 4">
+<property name="Card Number" value="S20-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="103b3093-0caa-40d8-96cc-870b8baf16fe" name="Intelligence 5">
+<property name="Card Number" value="S21-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="a4d520cf-9bde-40a7-847e-41cc5285e5fb" name="Special 5">
+<property name="Card Number" value="S22-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="58098ab3-5a6f-4b06-9113-c154a493de89" name="Strength 5">
+<property name="Card Number" value="S23-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9d580792-2f68-4068-a85a-89e9c401a92d" name="Intelligence 6">
+<property name="Card Number" value="S24-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="16576848-f1ad-428f-829f-bb6deb7a1753" name="Special 6">
+<property name="Card Number" value="S25-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="819655f0-9682-4c48-8b14-c468fe616820" name="Strength 6">
+<property name="Card Number" value="S26-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7802239c-217a-4722-8cd5-45bac71fd883" name="Intelligence 7">
+<property name="Card Number" value="S27-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="f2bbe71e-7473-466a-82c7-978ffb95fe7b" name="Special 7">
+<property name="Card Number" value="S28-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="c74c6f7d-491c-41fe-a87a-a1eee60407ed" name="Strength 7">
+<property name="Card Number" value="S29-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="39fcdd4f-8882-4b5a-ae00-77727a2410b9" name="Intelligence 1">
+<property name="Card Number" value="S30-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: Shuffle a card from your hand into your deck, then draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="9501c1fb-a138-4f1b-b58a-3db21a486811" name="Strength 2">
+<property name="Card Number" value="S31-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: You may KO a Character you control outside of the Battle Zone to draw 2 cards." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d6833d34-df33-45dc-95d6-02b3369f8f01" name="Intelligence 3">
+<property name="Card Number" value="S32-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Prep target character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="9c35c27d-c148-469f-bfa1-0399aff98575" name="Special 2">
+<property name="Card Number" value="S33-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Gain 1 MP for each different Trait you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="39f7408c-16b9-4623-afc9-7dd9f90177f4" name="Strength 3">
+<property name="Card Number" value="S34-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: Characters with the same Trait as this card's user may attack this turn." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3f22bcfe-040f-4609-8e6b-81796002379b" name="Intelligence 5">
+<property name="Card Number" value="S35-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: Prep target Character with Intelligence of Rank 5 or higher." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="bf79dbd1-e83d-45e3-b258-d6ba44746fed" name="Special 5">
+<property name="Card Number" value="S36-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: If this card is used in a Team Attack, search your discard pile for a Character with a CONTINUOUS effect and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="33706afe-6ab2-4294-b90f-e4c967110df9" name="Intelligence 6">
+<property name="Card Number" value="S37-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: Shuffle any number of cards from your hand into your deck, then draw the same amount back." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="a98c693d-402d-4203-8e92-30a61eee56cf" name="Special 6">
+<property name="Card Number" value="S38-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: If your opponent assigns any defends this turn, they must defend this attack first if possible." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="67863685-387d-498e-9636-ada34444d438" name="Strength 6">
+<property name="Card Number" value="S39-AT" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Until the end of your next turn, your Titan Characters may play any Strength Battle Cards without playing their MP costs." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+</cards>
+</set>

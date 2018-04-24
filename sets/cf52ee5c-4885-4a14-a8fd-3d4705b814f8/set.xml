@@ -1,0 +1,2390 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" 
+     name="Set 1"
+     id="cf52ee5c-4885-4a14-a8fd-3d4705b814f8" 
+     gameId="fc640978-3b90-4e62-ac0d-55c3cb43961a" 
+     gameVersion="0.0.0.1" 
+     version="0.0.0.1">
+<cards>
+<card id="57e5a769-b60e-4d0d-8adf-463c764f2539" name="Alfred Pennyworth - Butler">
+<property name="Card Number" value="C1-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Place this card on top of its owners deck to search your deck for a Character and place it in your hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2c78568d-b1f3-41e2-9ad8-7efb96c5b937" name="Amanda Waller - The Wall">
+<property name="Card Number" value="C2-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: Your Villain Characters may Link to a Team Attack for 0 MP on the turn they enter play." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="840040fe-edc2-4ded-8179-66046eba0b58" name="Black Canary - Dinah Lance">
+<property name="Card Number" value="C3-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Negate the effects of target Character until the end of your next turn." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="4cde0ded-9f49-40de-9ff5-57d5eb2be881" name="Hawkgirl - Gravity-Defying Nth">
+<property name="Card Number" value="C4-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Negate any effects that would move a card in a discard pile to a different zone." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="e4e72523-c981-41a4-adc1-ceab3bbc0861" name="Deadman - Boston Brand">
+<property name="Card Number" value="C5-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Place a Battle Card from your discard pile into your hand." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="242766e5-cb02-43a3-bccd-f1f09e4fb9a8" name="Firestorm - Nuclear Man">
+<property name="Card Number" value="C6-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: KO this card to KO target Character." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="752b0aae-f967-412e-b263-7b845693b356" name="Hawkman - Carter Hall">
+<property name="Card Number" value="C7-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Each player draws 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="797afc60-1296-4cd3-a49c-ff168d40a412" name="Martian Manhunter - Jonn Jonzz">
+<property name="Card Number" value="C8-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card may use any Battle Card when defending." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="3975c270-cd85-4b9f-9cff-fcbaf22f351c" name="Red Tornado - John Smith">
+<property name="Card Number" value="C9-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this card gains a VP, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="5a44ca8b-a242-40a3-8b3f-6307b4e087a6" name="Starfire - Koriandr">
+<property name="Card Number" value="C10-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Attach a Battle Card with a rank of 7 from your discard pile to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="bc948504-8184-4ae9-b471-ec6beb36b56b" name="Superboy - Kon-El">
+<property name="Card Number" value="C11-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Choose an attached Battle Card, then return it to its owners hand or discard it." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="fb5b27f5-3338-4533-a5be-45d49c216d3d" name="Mister Freeze - Victor Fries">
+<property name="Card Number" value="C12-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Characters with a rank of 7 have their effects negated and cannot defend." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="0d9c894c-41e3-4ffa-9106-a86bd0e15fcb" name="Bane - Professional Criminal">
+<property name="Card Number" value="C13-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Discard the top 2 cards of your opponents deck." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="e89de6f3-effe-410b-b402-310e34592a35" name="Scarecrow - Jonathan Crane">
+<property name="Card Number" value="C14-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever this card pushes to attack, your opponent loses 2 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="d4099e00-6111-443f-a225-b5ada993d17d" name="General Zod - Dru-Zod">
+<property name="Card Number" value="C15-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: While you control only Villain Characters, your opponents constant effects are negated." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="5588ebd0-3d1c-4f1d-937d-c5b8f462488f" name="Poison Ivy - Pamela Isley">
+<property name="Card Number" value="C16-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: At the start of your turn, gain 2 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="31673a53-dc71-493b-bef1-844f84d12d80" name="Ras Al Ghul - The Demons Head">
+<property name="Card Number" value="C17-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: You may play a Character from your discard pile with a maximum rank of 5 or less." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="16a5059b-f702-434e-8dec-c5c157564563" name="Absence of Fear">
+<property name="Card Number" value="C18-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Your opponent shuffles his or her hand into his or her deck, then draws 5 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a05ba533-263c-4d83-a135-7ede0dd52a15" name="Leap Into Action">
+<property name="Card Number" value="C19-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your deck for a Hero Character with a rank of 7 or a Battle Card with a rank of 7 and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="62da3b42-d782-4130-8cb1-0790b8bf6cfe" name="Birds of a Feather">
+<property name="Card Number" value="C20-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Each player draws 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="98d37a93-09ae-49dd-af09-d31727c7c571" name="Disgraced">
+<property name="Card Number" value="C21-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="KO target Character with a constant effect, or draw 2 cards if there are no Characters with a constant effect in play." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8cb817e5-d08b-4c73-8902-248ed0afb5ae" name="Echolocation">
+<property name="Card Number" value="C22-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Look at your opponents hand and choose a card. Your opponent discards that card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="77245e22-bba1-44ca-bc6c-7b3a8b7c1ae5" name="Rise from the Ashes">
+<property name="Card Number" value="C23-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Search your discard pile for a Character and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="5fe96941-0ea8-4543-8e86-88725eed3c92" name="Injustice">
+<property name="Card Number" value="C24-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Characters lose all effects until the end of your next turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="453304f7-93a2-49ce-b6ba-8c21ac8b0427" name="Battle Frenzy">
+<property name="Card Number" value="C25-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="At the end of your turn, draw a card for each Battle Card played this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b4ca4ba2-0016-40b1-bf89-a385b7f1b935" name="Lose the Battle to Win the War">
+<property name="Card Number" value="C26-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Return an attached Battle Card to its owners hand, then shuffle this card into its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="90ea02e2-9a19-4656-9947-bb89ffc96ef4" name="Overboard">
+<property name="Card Number" value="C27-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Discard a Character from your hand with a maximum rank of 5 or less to draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="32d0fda8-22c0-40a5-8c11-5a5c1e5ac224" name="Combat Mastery">
+<property name="Card Number" value="C28-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Until the end of your next turn, your Characters may use any Battle Cards. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="41e26cd1-64e8-42a6-8b84-908a6fed7ab5" name="Resurrection of Power">
+<property name="Card Number" value="C29-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="KO any number of Characters you control, then draw a card for each Character KOd this way." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3ef04efc-be59-4b7a-98a7-384ea1499a70" name="Reinforcements">
+<property name="Card Number" value="C30-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Shuffle 2 Battle Cards from your discard pile into your deck, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f4594d2a-0c62-4635-aa82-911167473dfe" name="Strength 1">
+<property name="Card Number" value="C31-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Draw a card, then discard a card from your hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="cdd95e5a-ab16-4896-8539-7fad3549de80" name="Intelligence 1">
+<property name="Card Number" value="C32-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: This attack can only be defended by Characters with an Intelligence Stat." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="dd8150e9-ecd8-407b-aa01-0c7a8ec96338" name="Special 1">
+<property name="Card Number" value="C33-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="9addb2a4-5534-485d-9010-5078d2e70b13" name="Special 1">
+<property name="Card Number" value="C34-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Until the end of the turn, Battle Cards cannot be attached to the Character using this card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="99a32162-84e7-48d0-9fd6-180dfefacc95" name="Strength 2">
+<property name="Card Number" value="C35-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="If this card is used by a Hero Character, you may discard an attached Battle Card." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="49d0a340-7460-441d-8238-81929c44b67e" name="Strength 2">
+<property name="Card Number" value="C36-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: If this card KOs a Character, gain 2 MP." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2f21628c-8e1d-47b2-9290-f0eb0eb8db86" name="Strength 2">
+<property name="Card Number" value="C37-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="Each player draws a card." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="675e17d2-0d70-4262-aa3f-81eec3f2e137" name="Intelligence 2">
+<property name="Card Number" value="C38-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Draw 2 cards, then place a card from your hand to the bottom of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="2f019720-31c6-40fa-a300-f59bbde59ac1" name="Special 2">
+<property name="Card Number" value="C39-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Negate the effects of target Character until the end of your next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="a6e49eae-3c1f-4bcc-b139-4e1bef1aa885" name="Strength 3">
+<property name="Card Number" value="C40-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Discard the top 2 cards of your deck, then draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c596f548-4168-498b-8e99-954ce5d7eef6" name="Special 7">
+<property name="Card Number" value="C41-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control Batman, Superman and Wonder Woman, draw 3 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="2d73cbf0-60d1-4563-9b4c-de4289f04461" name="Intelligence 3">
+<property name="Card Number" value="C42-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Shuffle a Character from your discard pile into your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="45fe0156-fb58-44c4-90c8-2c2cff934f33" name="Intelligence 3">
+<property name="Card Number" value="C43-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your discard pile for a Battle Card with a maximum rank of 2 or less and place it into your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="5ebe2d2f-bfcc-4b0f-ae79-a26edc546dbf" name="Special 3">
+<property name="Card Number" value="C44-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your discard pile for a Battle Card with a rank or 6 or 7 and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="3453cf53-6ae8-41ba-b2b7-6c9a262e3694" name="Strength 4">
+<property name="Card Number" value="C45-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If the Character using this card has a maximum rank or 5 or less, draw a card." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="87759581-72a5-4bad-8a95-d4f63dfb0dac" name="Intelligence 4">
+<property name="Card Number" value="C46-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Search your deck for a Battle Card with a rank of 5 and place it into your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="2efe1fe8-e7f5-4c4a-8544-02eee4713816" name="Special 4">
+<property name="Card Number" value="C47-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="4" />
+<property name="Text" value="This card cannot be used by a Character with a rank of 6 or higher." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="397d4bdd-84ca-44de-91b7-e62f6c7a8e50" name="Special 4">
+<property name="Card Number" value="C48-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Each player discards a card from their hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="8f0e73d2-66b1-44af-94e2-23d98950386e" name="Special 4">
+<property name="Card Number" value="C49-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Your Characters that entered play this turn may attack." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="6940a0b3-1905-455e-8e6d-5bbda5d135ea" name="Strength 5">
+<property name="Card Number" value="C50-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: This attack can only be defended by a Character with a maximum rank of 5 or less." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7ac25736-cc96-4f91-990c-5fdd20f275ee" name="Intelligence 5">
+<property name="Card Number" value="C51-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Shuffle a Battle Card from your discard pile into your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="3a799e1d-8f3f-4463-b903-3b1a0ad73c9f" name="Intelligence 5">
+<property name="Card Number" value="C52-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Look at the top 2 cards of your opponents deck, then place them on the top of their deck in any order." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="75717770-9011-4301-bd9d-ba563048e5e3" name="Special 5">
+<property name="Card Number" value="C53-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you have less MP than your opponent, gain 3 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="ce8303b1-fc7c-4a7d-bb43-56a105bcca26" name="Strength 6">
+<property name="Card Number" value="C54-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="The next Battle Card you play this turn has its MP cost reduced by -2." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d9a688ca-3d53-461d-b548-f8becc6dfcb6" name="Intelligence 6">
+<property name="Card Number" value="C55-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Look at your opponents hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="eb5811ab-7103-4f29-9f0f-dca0827b2f47" name="Special 6">
+<property name="Card Number" value="C56-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: Draw a card for each Character with a rank of 7 in the Battle Zone." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="68e277dd-50a4-4d7b-9820-60849ee3f4aa" name="Strength 7">
+<property name="Card Number" value="C57-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="The next Battle Card you play this turn has its MP cost reduced to 0." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="528b959c-46e0-40a9-85e2-71dfce70b325" name="Intelligence 7">
+<property name="Card Number" value="C58-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Look at the top 3 cards of your deck, then place them on the top or bottom of your deck in any order." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="dfde04d7-b5f9-444d-8a9b-a8a03c98ab1d" name="Strength 3">
+<property name="Card Number" value="C59-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Target Character cannot defend this turn." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7b390dc1-1507-4a8e-a0ea-9364c09d3a51" name="Special 7">
+<property name="Card Number" value="C60-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Discard the top 2 cards of each players deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="2708bb97-f192-4caa-be36-1712d5ad541c" name="Batgirl - Barbara Gordon">
+<property name="Card Number" value="U61-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card may Link to a Team Attack for 0 MP." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="a151c6a7-d167-4f54-8c02-23a446dc87cc" name="Batman - Dark Knight">
+<property name="Card Number" value="U62-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Push target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="6" />
+</card>
+<card id="5cd04eec-d767-459b-963e-582c81571090" name="Blue Beetle - Ted Kord">
+<property name="Card Number" value="U63-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="4" />
+<property name="Text" value="PLAY: You may play another Character with a maximum rank of 5 or less." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="bbce7d5e-4d14-46cf-b37d-5809dcdbf406" name="Vixen - Mari McCabe">
+<property name="Card Number" value="U64-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever you discard 1 or more cards from your hand, draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="7f5c7094-c1dd-42b9-9644-97b7c583ce81" name="Cyborg - Victor Stone">
+<property name="Card Number" value="U65-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Draw 2 cards, then discard 2 cards from your hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="56901e2b-4d6f-48e7-975d-9294ec36eed9" name="Green Arrow - Emerald Archer">
+<property name="Card Number" value="U66-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Attach a Battle Card with a maximum rank of 5 or less from your hand to target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="0578949f-ce6c-4f3a-a343-124765b53f74" name="Green Lantern - Hal Jordan">
+<property name="Card Number" value="U67-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="39a1c94c-6523-41d8-ac6d-883899e36fe1" name="Nightwing - Dick Grayson">
+<property name="Card Number" value="U68-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this card leads a Team Attack, gain 1 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="42c26671-5103-444c-8409-435a09410705" name="Krypto - The Super Dog">
+<property name="Card Number" value="U69-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: At the end of each players turn, that player draws a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="ab478e1a-f91a-42a1-9782-4e7e016b93b0" name="Robin - Boy Wonder">
+<property name="Card Number" value="U70-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw cards until you have the same amount in your hand as your opponent." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="646df365-a4fb-4c03-baad-f85206d3322d" name="Supergirl - Kara Zor-El">
+<property name="Card Number" value="U71-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: Each player reveals their hand and discards all Events revealed." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="dd9bf303-8e25-4071-b53c-7c856742eedd" name="Superman - Man of Steel">
+<property name="Card Number" value="U72-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw a card." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="4f2113ca-e9c0-4f81-8475-8db5a68cf8d7" name="Brainiac - Collector of Worlds">
+<property name="Card Number" value="U73-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: KO a different Character you control to gain 4 MP." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="5a57ec6d-84b9-4221-b0d7-04a9dbfe7d59" name="Harley Quinn - Former Psychiatrist">
+<property name="Card Number" value="U74-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: When this card is KOd by Damage during the Battle Step, gain 1 VP." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="56cbfbd9-6605-4ee2-adcb-695b5cfee204" name="Sinestro - Intergalactic Criminal">
+<property name="Card Number" value="U75-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: The next time your opponent would draw 1 card, skip it." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="f49e4605-23a8-4370-9c06-b7349d9987b3" name="Solomon Grundy - Cyrus Gold">
+<property name="Card Number" value="U76-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: This card can only be KOd by 8 points of Damage." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="62272a86-c96d-4b98-b51f-f27a68470a70" name="Victorious">
+<property name="Card Number" value="U77-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-9" />
+<property name="Text" value="Gain control of target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="cee4bdc3-e809-43a1-96e5-ceccfc322295" name="Unexpected Turnaround">
+<property name="Card Number" value="U78-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-8" />
+<property name="Text" value="Return all Characters to their owners hands." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="03c75398-d776-4846-a2c7-fb6d235b2c0a" name="Transfer of Power">
+<property name="Card Number" value="U79-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Use the when played effect of target Hero Character, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c1b1962c-899a-4303-aa38-eefd10f21ded" name="Dont Go It Alone">
+<property name="Card Number" value="U80-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="You may Link a Character this turn for 0 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0b3d2267-02a5-4e46-af53-49090c732261" name="Point Blank">
+<property name="Card Number" value="U81-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 3 cards, then discard 2 cards from your hand unless you discard a Character with a rank of 7." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d6a24c56-1e6e-4aad-b233-8a6d25a4fb96" name="Jokes On You">
+<property name="Card Number" value="U82-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place 2 Battle Cards from your discard pile into your hand, then discard a random card from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0f83b33d-a491-4776-8436-4d692d2ab514" name="Passion for the Hunt">
+<property name="Card Number" value="U83-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your deck for a Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e41ab8f6-2255-47fa-8204-acea13c7e571" name="Power Corrupts">
+<property name="Card Number" value="U84-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Attacks from target Character cannot be defended this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9c8ad410-b3cd-4ae6-a884-9ce2b3703f64" name="Push and Pull">
+<property name="Card Number" value="U85-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If you control at least two Characters with a maximum rank of 5 or less, draw 3 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="79d10a89-42fe-47e1-b3f6-3a789e23707b" name="Rebirth">
+<property name="Card Number" value="U86-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Shuffle 3 non-Event cards from your discard pile into your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="838e679b-d54b-480b-96f0-fc5853b046fd" name="Upper Hand">
+<property name="Card Number" value="U87-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c2de78d1-f035-4974-9127-5e3d318f6540" name="Sleight of Hand">
+<property name="Card Number" value="U88-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Look at your opponents VP pile and choose a card, then swap this card facedown with the chosen card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1ca79c05-a895-4664-97c9-af8cd698a1c1" name="Paralysis">
+<property name="Card Number" value="U89-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Characters cannoy attack until the end of your next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1e75b024-2598-4cff-a50d-3c789e93c7fa" name="Strength in Numbers">
+<property name="Card Number" value="U90-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you perform a Team Attack this turn, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1425da0c-4404-4770-a230-8bac4146ecdd" name="Meta Superiority">
+<property name="Card Number" value="U91-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Attach a Battle Card from your hand to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="dd92a61f-5a5b-4ef8-af2b-12bfff45e42f" name="Strength / Intelligence / Special 1">
+<property name="Card Number" value="U92-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If you gain a VP from this attack, you may pay -1 MP to return this card to its owners hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="1" />
+</card>
+<card id="11953044-9f83-47f3-b856-54a13f92df6a" name="Intelligence 4">
+<property name="Card Number" value="U93-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: If this card is used by a Villain Character, place a Character from a discard pile on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="3a4af197-d69d-4a35-a908-38f1e9e010bf" name="Strength / Intelligence / Special 4">
+<property name="Card Number" value="U94-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="4" />
+</card>
+<card id="d4220be1-5775-4e14-9900-b2d349e47408" name="Strength / Intelligence / Special 5">
+<property name="Card Number" value="U95-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="If this card is used in a Team Attack, draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="c9ae8225-368d-45a2-b969-f4e2fb1b6387" name="Intelligence 6">
+<property name="Card Number" value="U96-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="DEFEND: Target an attacking Character. KO that Character at the end of the turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="3835952b-ea91-4dde-b6c1-ebf61064f99d" name="Special 6">
+<property name="Card Number" value="U97-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="570620d6-410d-4a46-9519-e576376a5eb3" name="Strength 7">
+<property name="Card Number" value="U98-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: Discard the top 3 cards of your deck to push up to 2 target Characters." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="cfa4a2e6-c9bc-489b-b698-b8d82a3bc9ef" name="Intelligence 7">
+<property name="Card Number" value="U99-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: This attack cannot be defended." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="a3a712b2-233f-46b9-92d9-13e18ea260e7" name="Special 7">
+<property name="Card Number" value="U100-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: Discard all Battle Cards attached to the Character using this card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="6fd5ac17-3936-4064-b298-0c805030e915" name="Aquaman - Arthur Curry">
+<property name="Card Number" value="R101-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card cannot be targeted." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="be8aeb41-2905-4d1f-90b9-8999428592ea" name="Atom - Ray Palmer">
+<property name="Card Number" value="R102-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: At the end of your turn, return target Character with a rank of 7 to its owners hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="4aed563d-66bf-48e7-856c-abb6b72535e2" name="Doctor Fate - Agent of the Lords of Order">
+<property name="Card Number" value="R103-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: You may KO this card to place a random card from your opponents VP pile into your hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="72da4212-a9fc-4584-a554-e7d19a7a1a31" name="John Constantine - Occult Detective">
+<property name="Card Number" value="R104-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Negate all when played effects." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="e3a2450f-da23-4919-a4c9-db44d89996c0" name="Shazam - Captain Marvel">
+<property name="Card Number" value="R105-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PUSH: Return this card to its owners hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="831b49e1-66d1-4a74-9466-55b1a7b07167" name="The Flash - Scarlet Speedster">
+<property name="Card Number" value="R106-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: This card may attack on the turn it enters play." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="d0a50762-4999-4702-9f7d-90dfda52f96b" name="Wonder Woman - Amazon Princess">
+<property name="Card Number" value="R107-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Discard a card from your hand to KO target Character with a rank of 7." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="647d282c-b646-4892-8ce3-0a3a26f3c786" name="Zatanna - Magician">
+<property name="Card Number" value="R108-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: At the beginning of your turn, shuffle this card into its owners deck to shuffle target Character into its owners deck." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="1faef633-565c-4fdc-bc56-11ae9145fc64" name="Bizarro - Imperfect Duplicate">
+<property name="Card Number" value="R109-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: Gain the effects of target Character (until Bizzarro leaves play)." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="70b60a0b-4560-45b0-b830-4201931334c1" name="Black Adam - Teth-Adam">
+<property name="Card Number" value="R110-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="5" />
+<property name="Text" value="PLAY: Discard a card from your hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="8d82e3f8-22ad-4cd0-a68b-663ef7ec7540" name="Darkseid - Uxas">
+<property name="Card Number" value="R111-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: The first time each turn one of your Characters with a maximum rank of 5 pushes to attack, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="1555ab00-9c1b-4109-bc5c-c3cd896606de" name="Deathstroke - Slade Wilson">
+<property name="Card Number" value="R112-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: KO target pushed Character." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="ffa9556d-2420-4e53-bacf-f9ad1fa32a28" name="Doomsday - Destroyer">
+<property name="Card Number" value="R113-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Negate the effects of Battle Cards." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="09e068f7-37e5-490b-9a14-99c3d31c9d51" name="Lex Luther - CEO of Lexcorp">
+<property name="Card Number" value="R114-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: KO target Character with a rank of 7." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="5" />
+</card>
+<card id="3e15f10c-cd2f-49dd-b402-9b40a0dafb82" name="The Joker - Clown Prince of Crime">
+<property name="Card Number" value="R115-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Each player shuffles their hand into their deck, then draws the same amount of cards back." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="28dd3ca2-7589-427c-adf0-a08deb5ce2c4" name="Against the Current">
+<property name="Card Number" value="R116-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Look at your opponents hand. If you control a Character with a maximum rank of 5 or less, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7f8edb50-e296-4b38-a222-954f63da591a" name="Come and Take It">
+<property name="Card Number" value="R117-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Play a Character or Event from your opponents discard pile as though it were in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="bd5577b4-18f6-4b6a-804f-3c6da5268369" name="Evil Parade">
+<property name="Card Number" value="R118-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-7" />
+<property name="Text" value="KO all Characters." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8869ef2d-b69c-4f8a-ae11-430e41256d7f" name="Knockout">
+<property name="Card Number" value="R119-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="KO a Character you control to KO target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="971f94ec-9507-499d-b30e-24503d5baf48" name="Microscopic Victory">
+<property name="Card Number" value="R120-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-9" />
+<property name="Text" value="Gain 1 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="00b00c3d-fb9b-4c99-ae5e-614d3e5fa332" name="Showdown">
+<property name="Card Number" value="R121-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-6" />
+<property name="Text" value="Each player chooses a Character under their control, then all other Characters are KOd." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="78f19f15-0b15-4422-afe5-b62d276c96ed" name="Right on Target">
+<property name="Card Number" value="R122-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-6" />
+<property name="Text" value="Return target Character to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ef6e3701-cb6a-4fdb-84a3-cfee17ca4933" name="Ingenuity">
+<property name="Card Number" value="R123-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Discard your hand, then draw 5 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="dbd7162a-67ee-4a0a-b28b-07f273a8c9b7" name="Teleportation">
+<property name="Card Number" value="R124-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Return a Character you control to your hand to return target Character to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e649483b-8561-412f-a462-593daec462a5" name="With Friends Like These">
+<property name="Card Number" value="R125-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="KO all Characters with Damage attached and shuffle those attached Battle Cards into their owners decks." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9b49f79c-43a6-4924-9c56-26f9617eec93" name="Inherent Weakness">
+<property name="Card Number" value="R126-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Attach a Battle Card from your discard pile to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="38a0e0fe-bd2b-41a0-9823-890d42b032e8" name="Intelligence 1">
+<property name="Card Number" value="R127-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Draw 3 cards, then place 2 cards from your hand on top of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="4739df5e-ddfa-41c4-8895-81b67dcb8b22" name="Special 2">
+<property name="Card Number" value="R128-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If you have played another Battle Card with a maximum rank of 5 or less this turn, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="93ef6f67-3f4c-4356-ae5a-8fcac2380e26" name="Intelligence 3">
+<property name="Card Number" value="R129-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="DEFEND: Push target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="27512b28-d514-42d6-ab88-814093c02864" name="Special 3">
+<property name="Card Number" value="R130-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: If this attack is defended, return this card to its owners hand and you may attach a different Battle Card from your hand to the defender." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="57291e3e-6d87-42ad-a43f-012c7675b250" name="Strength 4">
+<property name="Card Number" value="R131-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Draw 2 cards, the discard 2 cards from your hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="dd671348-835c-4f01-ac31-670ee6aecc88" name="Strength 5">
+<property name="Card Number" value="R132-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: At the end of the turn, KO any Characters that Team Attacked this turn." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="31fd7cf8-44f1-417b-a8c3-60543facdb09" name="Strength / Intelligence 5">
+<property name="Card Number" value="R133-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="The next Battle Card you play this turn has its MP cost reduced by -1." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="8e189258-3474-4d71-8ab0-874364397d07" name="Strength / Special 5">
+<property name="Card Number" value="R134-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="You may discard a Battle Card from your hand to draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="8bf5d08f-6e23-4aad-9993-4e2644d90401" name="Intelligence / Special 5">
+<property name="Card Number" value="R135-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place an attached Battle Card on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="ec2d3bca-2535-449f-9543-edb7d504b174" name="Strength 6">
+<property name="Card Number" value="R136-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: Push target Character." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6b19330f-bc98-4512-9905-d75c29abcef1" name="Strength 7">
+<property name="Card Number" value="R137-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: Your opponent discards a card from their hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="bf48c4f6-395b-4bf8-8655-21a4ea6d132b" name="Intelligence 7">
+<property name="Card Number" value="R138-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: Your opponent loses 5 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="79c857e5-e088-4b03-8118-497934d82260" name="Special 7">
+<property name="Card Number" value="R139-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="ATTACK: If this attack gains a VP, gain an additional VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="b55ba73d-df6f-4d76-b7b2-f800cb7076db" name="Strength / Intelligence / Special 7">
+<property name="Card Number" value="R140-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="Your opponent gains a VP." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="7" />
+</card>
+<card id="0eb829f3-53d3-45de-bf6c-5c0e79db6744" name="Wonder Woman - Princess Diana of Themyscira">
+<property name="Card Number" value="XR141-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever a Characters push effect is activated, negate that effect, KO that Character, and KO this card." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="6b09a440-4b02-4e6c-bff3-d8ff273409e3" name="Darkseid - Ruler of Apokolips">
+<property name="Card Number" value="XR142-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: Your opponent discards a random card from their hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="6d4ecfee-df34-4624-aa5c-93f307879d31" name="Harley Quinn - Dr. Harleen Quinzel">
+<property name="Card Number" value="XR143-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: KO this card to gain 1 VP." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="a030882d-d887-4a7a-8f51-cd0287febefd" name="The Joker - Certifiably Insane">
+<property name="Card Number" value="XR144-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Search your deck for a Harley Quinn and place it in your hand." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="4" />
+</card>
+<card id="9e18d77c-344b-41fc-9412-5dadcf2cb788" name="Batman - The Caped Crusader">
+<property name="Card Number" value="UR145-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Look at the top 3 cards of a players deck, then discard 1 of them and return the other 2 in any order." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="7" />
+</card>
+<card id="6217b873-4367-4b54-82c0-c1f6c605c0e5" name="Superman - Last Son of Krypton">
+<property name="Card Number" value="UR146-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Attacking does not cause this card to push." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="e3d27c39-d55e-4c1d-aaba-df8d64da5740" name="Harley Quinn - Former Psychiatrist">
+<property name="Card Number" value="S1-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: When this card is KOd by damage during the Battle Step, gain 1 VP." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="1baff5e9-763f-45c4-ba28-17a8dd9e6d4a" name="Brainiac - Collector of Worlds">
+<property name="Card Number" value="S2-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: KO a different Character you control to gain 4 MP." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="0a7fdbaa-8956-469d-b44c-51c752fb7d7c" name="Sinestro - Intergalactic Criminal">
+<property name="Card Number" value="S3-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: The next time your opponent would draw 1 card, skip it." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="442ef078-9337-4c16-9fa0-00a7b187796e" name="Solomon Grundy - Cyrus Gold">
+<property name="Card Number" value="S4-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: This card can only be KOd by 8 points of Damage." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2c91a70f-093a-47c5-9aff-29f1031ebf68" name="Jokes On You">
+<property name="Card Number" value="S5-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place 2 Battle Cards from your discard pile into your hand, then discard a random card from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f5bd2327-08e7-4af9-b051-6c1aadab14c4" name="Push and Pull">
+<property name="Card Number" value="S6-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If you control at least two Characters with a maximum rank of 5 or less, draw 3 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="64318cd4-58a1-449a-9453-512c666f22f6" name="Transfer of Power">
+<property name="Card Number" value="S7-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Use the when played effect of target Hero Character, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7c8d1ad5-b924-4f9a-872c-f582d3f8ee9b" name="Strength 6">
+<property name="Card Number" value="S8-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c3cf101c-534d-4610-a2ad-d8cdcfc8137d" name="Strength 3">
+<property name="Card Number" value="S9-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7b1c08e3-4014-49eb-946f-cc9f8f818534" name="Strength 2">
+<property name="Card Number" value="S10-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d03dfbcd-74de-45e3-9120-b510525c1d10" name="Strength 1">
+<property name="Card Number" value="S11-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fa73437a-bbe0-470c-81d8-ce929cbe04ee" name="Intelligence 7">
+<property name="Card Number" value="S12-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="cdf7d37d-72b8-42ff-8bd1-3b5210473f48" name="Intelligence 4">
+<property name="Card Number" value="S13-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="8af35a0e-35cf-4ad0-bcc5-b006d4175687" name="Intelligence 2">
+<property name="Card Number" value="S14-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="73d87924-3d07-40ee-abc0-75b0cba29a7a" name="Intelligence 1">
+<property name="Card Number" value="S15-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="274383f3-8bc4-429e-908c-92e2b93dbfda" name="Special 6">
+<property name="Card Number" value="S16-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="f2b84f6a-3e70-494e-801a-d36f985e216a" name="Special 5">
+<property name="Card Number" value="S17-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="648b470d-8f4a-4430-9eee-d402dbcf591e" name="Special 3">
+<property name="Card Number" value="S18-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="12e5972c-323d-4272-915e-1b67afc7eafd" name="Superman - Man of Steel">
+<property name="Card Number" value="S19-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw a card." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="62f1d2e2-bc8d-46e3-961a-0e6e33fabc36" name="Supergirl - Kara Zor-El">
+<property name="Card Number" value="S20-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: Each player reveals their hand and discards all Events revealed." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="1656920c-4640-41b2-bdc4-33443b0f2495" name="Krypto - The Super Dog">
+<property name="Card Number" value="S21-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: At the end of each players turn, that player draws a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="c1841fe9-829e-4beb-a8af-774a43ae8631" name="Green Arrow - Emerald Archer">
+<property name="Card Number" value="S22-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Attach a Battle Card with a maximum rank of 5 or less from your hand to target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="5bc79c1c-f70a-4178-a71d-2b22e0e55349" name="Rebirth">
+<property name="Card Number" value="S23-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Shuffle 3 non-Event cards from your discard pile into your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="70eb0243-55fc-4488-885e-b8bf87a78dda" name="Passion for the Hunt">
+<property name="Card Number" value="S24-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your deck for a Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fa73b4f7-a867-4d31-9588-c954c983aeed" name="Power Corrupts">
+<property name="Card Number" value="S25-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Attacks from target Character cannot be defended this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="534bd9dd-685d-4ad2-94fc-27b81896bff5" name="Strength 7">
+<property name="Card Number" value="S26-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c351c090-c5f5-49da-b8af-228d6fb6dc23" name="Strength 6">
+<property name="Card Number" value="S27-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="955978e1-ea4d-4baf-b144-90ac26f1943f" name="Strength 3">
+<property name="Card Number" value="S28-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ce9bec79-3e99-428b-90ea-c3fef5a59c9d" name="Strength 2">
+<property name="Card Number" value="S29-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0ad0b853-d26a-4624-a5da-e2ac3e74dbd1" name="Strength 1">
+<property name="Card Number" value="S30-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1622aee1-2789-438d-a0e5-362a1c185f55" name="Intelligence 3">
+<property name="Card Number" value="S31-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="5b3c45ea-b850-44c6-a869-61f515d5f849" name="Intelligence 2">
+<property name="Card Number" value="S32-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="b40b6b3f-df07-446f-b790-bb8c2b83257b" name="Intelligence 1">
+<property name="Card Number" value="S33-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="b75dca42-497d-4788-869c-5857e6a8e96e" name="Special 5">
+<property name="Card Number" value="S34-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="c8cbd3ae-527a-4d91-a606-1d7621a4e079" name="Special 4">
+<property name="Card Number" value="S35-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="36f58d5c-e6fa-4826-8095-c382c772f1c2" name="Special 1">
+<property name="Card Number" value="S36-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="c8f1c9b1-6884-497b-843c-1af1d2d25d84" name="Cyborg - Victor Stone">
+<property name="Card Number" value="S37-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Draw 2 cards, then discard 2 cards from your hand." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="64c7e96d-246d-4dcc-9bdf-64f8a7ed3c16" name="Green Lantern - Hal Jordan">
+<property name="Card Number" value="S38-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="2ab5cd0f-a936-4670-a317-6e22be6f48f6" name="Blue Beetle - Ted Kord">
+<property name="Card Number" value="S39-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="4" />
+<property name="Text" value="PLAY: You may play another Character with a maximum rank of 5 or less." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="1a33c7bb-5e82-4f04-b092-4f39b0171858" name="Vixen - Mari McCabe">
+<property name="Card Number" value="S40-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever you discard 1 or more cards from your hand, draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="3f4ec4e7-0238-4eb3-9f07-33da50498db2" name="Sleight of Hand">
+<property name="Card Number" value="S41-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Look at your opponents VP pile and choose a card, then swap this card facedown with the chosen card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="c2cd2c5c-85e5-47f3-aeba-7b314eb65ea7" name="Strength in Numbers">
+<property name="Card Number" value="S42-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you perform a Team Attack this turn, draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="22b34ba1-9203-4a3c-b18e-65c8a7b4c2ee" name="Meta Superiority">
+<property name="Card Number" value="S43-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Attach a Battle Card from your hand to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="75215de1-98c1-479e-bff4-edcc0f97a6fc" name="Strength 4">
+<property name="Card Number" value="S44-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="aacd62b7-af80-448c-8309-a79f15144d91" name="Strength 3">
+<property name="Card Number" value="S45-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3b417217-49dd-4003-b3dd-bd9314d7e68d" name="Strength 2">
+<property name="Card Number" value="S46-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="75e16bfd-1196-4002-b4f8-80fd310557f9" name="Strength 1">
+<property name="Card Number" value="S47-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7f83e19b-5b59-43cb-9d3b-79bdf652250c" name="Intelligence 5">
+<property name="Card Number" value="S48-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="830880b4-fee5-425d-829f-ee1930ca4b85" name="Intelligence 3">
+<property name="Card Number" value="S49-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="f0151abc-358a-4daa-8d30-2d8aacfcfbfe" name="Intelligence 1">
+<property name="Card Number" value="S50-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="5e797f0c-4eb4-4a07-8056-7f4c564942be" name="Special 6">
+<property name="Card Number" value="S51-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="8e0154c3-100f-4ff0-b4f4-7719a13c190b" name="Special 5">
+<property name="Card Number" value="S52-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="d4a8db35-4637-4af2-825c-1a4d1c7b08a2" name="Special 4">
+<property name="Card Number" value="S53-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="960f4caf-0a9d-4bcf-8644-8579bef453c5" name="Special 3">
+<property name="Card Number" value="S54-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="b6538695-00a4-47a9-a7e6-f659870974be" name="Batman - Dark Knight">
+<property name="Card Number" value="S55-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Push target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="6" />
+</card>
+<card id="516109a6-b818-4961-bf9b-69dc7c489c88" name="Batgirl - Barbara Gordon">
+<property name="Card Number" value="S56-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card may Link to a Team Attack for 0 MP." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="22c66790-fad8-41e6-9fd9-41cbb4412805" name="Nightwing - Dick Grayson">
+<property name="Card Number" value="S57-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this card leads a Team Attack, gain 1 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="4f392035-9ba8-4711-81f9-6975ed5156fd" name="Robin - Boy Wonder">
+<property name="Card Number" value="S58-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw cards until you have the same amount in your hand as your opponent." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="222300da-cf0d-40c4-bd43-b94578e3abb6" name="Dont Go It Alone">
+<property name="Card Number" value="S59-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="You may Link a Character this turn for 0 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8486edc2-498e-48e5-b416-cad9cc4c09f8" name="Point Blank">
+<property name="Card Number" value="S60-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 3 cards, then discard 2 cards from your hand unless you discard a Character with a rank of 7." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="dbfbc3a8-b451-4a75-827f-aa39bbf05a0b" name="Upper Hand">
+<property name="Card Number" value="S61-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="95006895-eb89-44ba-beb3-547c1af1d6e6" name="Strength 4">
+<property name="Card Number" value="S62-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6e490e25-28d2-4c91-86ba-6a16252b74a6" name="Strength 3">
+<property name="Card Number" value="S63-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="" />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="4e339814-5e88-4e86-9443-7a22d4e164a1" name="Strength 2">
+<property name="Card Number" value="S64-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7ffdb9bb-d2e9-4195-b142-9bda083e57f0" name="Strength 1">
+<property name="Card Number" value="S65-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="48685f7e-154c-40d7-a52f-46ed15650950" name="Intelligence 7">
+<property name="Card Number" value="S66-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="da3d3896-96f4-401b-84ff-84414561e062" name="Intelligence 5">
+<property name="Card Number" value="S67-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="263400c0-aa62-47a3-bcb9-dc7c44790c6c" name="Intelligence 4">
+<property name="Card Number" value="S68-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="1abaccfd-38d8-435a-9d64-eb861cbd2e8c" name="Intelligence 1">
+<property name="Card Number" value="S69-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="6d9b4b0a-61a0-4fa5-85e0-346a4f68c608" name="Special 6">
+<property name="Card Number" value="S70-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="e1aa8619-63a2-4869-9c2c-f593b8434ea1" name="Special 4">
+<property name="Card Number" value="S71-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="28344f64-0543-4680-a047-f6c7a2495c68" name="Special 1">
+<property name="Card Number" value="S72-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="" />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="6ae73a08-af96-4e6f-911a-b3dcbfb7637c" name="Strength / Intelligence / Special 1">
+<property name="Card Number" value="P1-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If you gain a VP from this attack, you may pay -1 MP to return this card to its owners hand." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="1" />
+</card>
+<card id="f6e772fc-310d-4a43-959c-4a6cb95384d0" name="Victorious">
+<property name="Card Number" value="P2-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-9" />
+<property name="Text" value="Gain control of target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9b99e43b-dc08-46c3-ac38-ae84790f794c" name="Strength / Intelligence / Special 4">
+<property name="Card Number" value="P3-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="" />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="4" />
+</card>
+<card id="d42d382f-d6cc-49d7-b1e7-d9d230762755" name="Unexpected Turnaround">
+<property name="Card Number" value="P4-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-8" />
+<property name="Text" value="Return all Characters to their owners hands." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="10849799-9de8-48b4-98e3-d0162a6a2f4a" name="Batman - Dark Knight">
+<property name="Card Number" value="P5-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Push target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="6" />
+</card>
+<card id="4582a497-931c-49c1-854e-12dc4ba03b7e" name="Superman - Man of Steel">
+<property name="Card Number" value="P6-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Draw a card." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="242ca75f-2ad7-48fb-bf46-4d2b4bd98079" name="Green Lantern - Hal Jordan">
+<property name="Card Number" value="P7-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="178763c1-e390-4a29-a1c0-fd8e60fed5a6" name="Harley Quinn - Former Psychiatrist">
+<property name="Card Number" value="P8-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: When this card is KOd by Damage during the Battle Step, gain 1 VP" />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="9b5cbec9-668b-4302-b62f-26db073ecd16" name="Aquaman - Arthur Curry">
+<property name="Card Number" value="P9-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card cannot be targeted." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="3dcf5c2d-0763-4640-ba8f-03cd2a67d39b" name="The Joker - Clown Prince of Crime">
+<property name="Card Number" value="P10-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Each player shuffles their hand into their deck, then draws the same amount of cards back." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="403554a6-16f6-4b63-987f-0fb2961b4fba" name="Wonder Woman - Amazon Princess">
+<property name="Card Number" value="P11-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Discard a card from your hand to KO target Character with a rank of 7." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="220c84ad-2176-4ad1-87c4-023355567c5b" name="Lex Luther - CEO of Lexcorp">
+<property name="Card Number" value="P12-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: KO target Character with a rank of 7." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="5" />
+</card>
+<card id="0ecc1276-bc53-4369-9f69-2085656a7b43" name="Shazam - Captain Marvel">
+<property name="Card Number" value="P13-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="PUSH: Return this card to its owners hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="95d2ee90-7f96-4ae7-8768-dece75ebd0a6" name="Darkseid - Uxas">
+<property name="Card Number" value="P14-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: The first time each turn one of your Characters with a maximum rank of 5 pushes to attack, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="7af6724e-eb2a-4c3f-b706-302a4a1e069e" name="The Flash - Scarlet Speedster">
+<property name="Card Number" value="P15-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: This card may attack on the turn it enters play." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="1f1974e5-d092-40e5-b059-d31990f368a3" name="Doomsday - Destroyer">
+<property name="Card Number" value="P16-JL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Negate the effects of Battle Cards." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="fefef598-57d2-4414-9226-67a0331c90ab" name="Paralysis">
+<property name="Card Number" value="P17-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Characters cannot attack until the end of your next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e94cd3f9-8bbb-4aa6-a7ef-19ec6a69bf91" name="Strength / Intelligence / Special 5">
+<property name="Card Number" value="P18-JL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="If this card is used in a Team Attack, draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="01b1bdef-f793-42d8-be26-ab839fd9b03c" name="Battle Frenzy">
+<property name="Card Number" value="P19-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="At the end of your turn, draw a card for each Battle Card played this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fbd1831c-d4b3-4981-a452-c3cca5f7f451" name="Disgraced">
+<property name="Card Number" value="P20-JL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="KO target Character with a constant effect, or draw 2 cards if there are no Characters with a constant effect in play." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+</cards>
+</set>

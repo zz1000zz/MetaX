@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" 
+     name="Set 2"
+     id="8b6549e8-c67d-45cc-9aed-0a1535f708ee" 
+     gameId="fc640978-3b90-4e62-ac0d-55c3cb43961a" 
+     gameVersion="0.0.0.1" 
+     version="0.0.0.1">
+<cards>
+<card id="a6b4a712-b9c8-4992-ab68-5e16b187f2b8" name="Superman - Kal-El">
+<property name="Card Number" value="C1-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Discard a Superman Character Card from your hand to KO target pushed Character with a maximum rank of 6 or less." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="f1d3841d-8da0-4470-8c99-2af7f40b8e0c" name="Saint Walker - The First Blue Lantern">
+<property name="Card Number" value="C2-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Blue Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="PUSH: Discard a Basic Battle Card from your hand to draw 2 cards and gain 1 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="89087446-a738-497d-830c-515d33ff1622" name="Warth - Brother Warth">
+<property name="Card Number" value="C3-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Blue Lantern" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: Your Blue Lantern and Green Lantern Characters may use any Basic Battle Cards." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="314e6e2d-ec10-4b21-849b-ec50a4ea4d39" name="Mogo - Living Planet">
+<property name="Card Number" value="C4-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="PUSH: Your opponent gains control of this card. This card does not Prep during its controllers next Prep Step." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="1" />
+</card>
+<card id="ab7eaba4-90ed-49cd-91c4-d8799ff2298c" name="Iroque - Compassionate Leader">
+<property name="Card Number" value="C5-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Indigo Tribe" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: Whenever a Battle Card would be attached to another Indigo Tribe Character, you may attach it to this card instead." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="226278cc-b8e5-4dac-9f57-d43d2ad7e833" name="Munk - Indigo-2">
+<property name="Card Number" value="C6-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Indigo Tribe" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Look at your opponents VP Pile and choose a card, then swap a card from your hand facedown with the chosen card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="5" />
+</card>
+<card id="863daa8e-b269-4cc6-8e67-6d64e320f618" name="Larfleeze - Powered by Avarice">
+<property name="Card Number" value="C7-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Orange Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: At the start of your turn, gain 1 MP for each Orange Lantern Character you control." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="c73ce336-1cd2-4ff2-9002-d3e7cbb987c8" name="Dex-Starr - Dexter">
+<property name="Card Number" value="C8-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Red Lantern" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: Whenever a Red Lantern Character is defended by a Character with a CONSTANT effect, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="5" />
+</card>
+<card id="5d5bf3f1-bc6f-47c6-86fb-c1e37cc58c49" name="Mongul - The Lesser">
+<property name="Card Number" value="C9-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever this card gains a VP, look at your opponents hand and choose an Event to discard." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="9472334d-4a10-4837-8916-fe006811503c" name="Scarecrow - Master of Fear">
+<property name="Card Number" value="C10-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="4" />
+<property name="Text" value="PUSH: Target Character cannot defend against your Sinestro Corps Characters this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="4" />
+</card>
+<card id="76d1797c-efbe-4474-8e75-31c7a6ca4176" name="Carol Ferris - Queen of the Star Sapphires">
+<property name="Card Number" value="C11-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Star Sapphire" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: If you control another Star Sapphire Character, push or prep target Character." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="833b0f8c-65c0-4dde-b088-38907aacc700" name="Star Sapphire - Violet Lantern">
+<property name="Card Number" value="C12-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Star Sapphire" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: After this card is KOd during the Battle Step, search your deck for a Star Sapphire Character and play it." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="b5716449-f910-4a62-bb5b-919b52d29b98" name="Deadman - Agent of Rama Kushna">
+<property name="Card Number" value="C13-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="White Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: If you control another White Lantern Character, place up to 2 Multi-Stat Battle Cards from your discard pile in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="d23c819b-3327-44fa-8183-5caad91d1b39" name="Sinestro - Possessed">
+<property name="Card Number" value="C14-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="White Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Your Multi-Stat Battle Cards can only be defended by Characters with a maximum Rank of 6 or higher." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="c1271d86-e891-4c2b-9e32-58fdd1feb072" name="Assault">
+<property name="Card Number" value="C15-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Look at your opponents hand and draw a card for each Event revealed. If there are no Events, KO target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a9e940c4-19e6-4487-ae2d-ee7c5f3e595f" name="Devastating Thoughts">
+<property name="Card Number" value="C16-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Choose up to 3 cards from a discard pile and place them on the bottom of their owners deck, then that players opponent draws a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="4671e86f-add1-4e60-9d20-30b4ea5d7c90" name="Gathering Strength">
+<property name="Card Number" value="C17-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw a card for every other card you have played this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ec3a454b-3ff8-4c2e-96dc-1f14ad45d6fc" name="Heralds of the Corps">
+<property name="Card Number" value="C18-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Look at each players VP Pile, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b9f5c7f3-6718-4b63-b5c9-003a7e59f30e" name="Lantern Synergy">
+<property name="Card Number" value="C19-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="If you control a Green Lantern Character, use the PUSH effect of a Character you control. If you control a Blue Lantern Character, prep a Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="87a9f26c-5822-4b27-831a-b29790385b2b" name="Love Conquers All">
+<property name="Card Number" value="C20-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If you control a Star Sapphire Character, discard any attached Battle Cards on up to 2 target Characters. Draw a card for each Battle Card discarded this way." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="478f3418-6a99-4c8e-b5b2-b9b23531c4f7" name="Meta Superiority">
+<property name="Card Number" value="C21-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Attach a Battle Card from your hand to target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="b07e6568-a8eb-4b11-866b-21cf7590f4fb" name="Moment of Peace">
+<property name="Card Number" value="C22-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Discard a Battle Card attached to target Character your opponent controls to return a Battle Card to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="72ea0d9a-1974-4392-a27e-34f7e79135bb" name="Preparations">
+<property name="Card Number" value="C23-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="Draw 2 cards, then end your Planning Step." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="44e15b12-4a7f-44b6-89fe-bedfe50561ae" name="Recharge">
+<property name="Card Number" value="C24-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Shuffle a Character from your discard pile into your deck to draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8e7fffb3-b3e2-4ccf-abc1-56acb90972e1" name="Transformation">
+<property name="Card Number" value="C25-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Return a Character you control to its owners hand. Your opponent may play a Character from their discard pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="650e108a-5e21-4157-9094-d56022806e02" name="Triumph">
+<property name="Card Number" value="C26-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control a White Lantern Character, choose a non-Event card from your discard pile and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="e45b8459-8c83-44c2-9e6f-4335a7fc1bee" name="Uncommon Allies">
+<property name="Card Number" value="C27-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="If you control a Hero Character, draw a card. If you control a Villain Character, your opponent discards a card from their hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="eb324115-faa6-49f0-bf22-c90d0c2b69bb" name="United">
+<property name="Card Number" value="C28-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control any Lantern Character, you may Link target Character this turn for 0 MP. Whenever you Link a Character this turn, draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f972dc8e-0aae-4354-a11a-1be0161b190c" name="Upper Hand">
+<property name="Card Number" value="C29-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="10b53a22-af8f-45c3-876c-63b90e7e447c" name="Willpower">
+<property name="Card Number" value="C30-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Prep target Character, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="26b15ac1-21ac-4958-bc58-84fa46ced3b0" name="Strength 1">
+<property name="Card Number" value="C31-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="Discard the top card of each players deck." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="23cf198d-fd31-497f-aa76-089eadba7ec5" name="Strength 1">
+<property name="Card Number" value="C32-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If this card is defended or used as a defense, draw 2 cards." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="bfa5763e-e7ee-4117-8243-c79478ab584f" name="Strength 2">
+<property name="Card Number" value="C33-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: If you have 2 or more Black Lantern Characters in your discard pile, discard the top 2 cards of your opponents deck." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1517d054-8b10-4455-833b-56bf0ef5f26a" name="Strength 2">
+<property name="Card Number" value="C34-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: Your Sinestro Corps Characters cannot be targeted by an opponents effects until the end of your next turn." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="4ef74a3b-6b30-4338-b3d1-781b1d397f14" name="Strength 3">
+<property name="Card Number" value="C35-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: If this card is defended, discard the top 2 cards of each players deck." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="74facd04-7f5d-4aac-b333-7ba4c1b4bdfd" name="Strength 4">
+<property name="Card Number" value="C36-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: Multi-Stat Battle Cards cannot be played this turn." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d0361445-94c7-4454-903a-8cfd629c2a16" name="Strength 5">
+<property name="Card Number" value="C37-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Push target Character with Damage attached." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8d46dd6b-eaab-4d6e-92f1-a4393c885c17" name="Strength 5">
+<property name="Card Number" value="C38-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Until the end of your next turn, negate the effects of any non-Strength Battle Cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a67ad766-8834-45d7-92a3-6cf06bc8ec54" name="Strength 6">
+<property name="Card Number" value="C39-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: This attack can only be defended by a Character with a maximum rank of 6 or higher." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6b3e3224-84ec-4890-880b-c197110e5e67" name="Strength 7">
+<property name="Card Number" value="C40-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If a deck has been searched this turn, your opponent discards a card from their hand." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fff7757a-9daf-4543-b4c7-60939d36a465" name="Intelligence 1">
+<property name="Card Number" value="C41-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="ATTACK: If this card gains a VP and is not defended, you may place a card from a discard pile on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="26a0739e-0aa1-4772-b16a-b5dfaf68b4e4" name="Intelligence 2">
+<property name="Card Number" value="C42-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Shuffle up to 2 cards from your opponents discard pile into their deck, then draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="5c451ab3-e35c-462d-a8ce-5b0726c1adfe" name="Intelligence 2">
+<property name="Card Number" value="C43-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control an Orange Lantern Character, each player draws 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="" />
+</card>
+<card id="78e4097b-c44b-4a79-94a1-56fab25bf69e" name="Intelligence 3">
+<property name="Card Number" value="C44-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="Look at a VP Pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="8fb30ab9-1bf0-4ec1-a72a-fe5fd3616f86" name="Intelligence 3">
+<property name="Card Number" value="C45-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="DEFEND: Your Blue Lantern Characters may defend without playing a Battle Card this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="56c43c6d-b30d-4d5b-b6ac-fad660185b6d" name="Intelligence 4">
+<property name="Card Number" value="C46-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="If this card is used by an Indigo Tribe Character, swap a card from your discard pile facedown with a random card in your opponents VP Pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="ba28c7a8-c1e6-4c9a-bef6-bfd1821e3df4" name="Intelligence 5">
+<property name="Card Number" value="C47-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="DEFEND: You may discard a card from your hand to return this card to your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="12376a73-72b6-44ce-884c-d41e9691ff2f" name="Intelligence 5">
+<property name="Card Number" value="C48-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="DEFEND: You may swap a card from your hand facedown with a random card in your opponents VP Pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="3dbf2af2-ef29-4e7e-9c5c-ef16a2bcc3ba" name="Intelligence 6">
+<property name="Card Number" value="C49-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: Reveal the top card of your deck. If the revealed card is an Event, place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="3de19b06-89e2-41bd-bdf6-88f000dd0a1b" name="Intelligence 7">
+<property name="Card Number" value="C50-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place a non-Event card from a discard pile on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="cc03f352-787c-4081-b0d9-9ef9717d0e7c" name="Special 1">
+<property name="Card Number" value="C51-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="Return an attached Battle Card to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="1" />
+</card>
+<card id="d0d3a26e-0398-4326-aa6a-d86bfd3196f0" name="Special 2">
+<property name="Card Number" value="C52-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: If your opponent has more than 5 MP, gain 5 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="2" />
+</card>
+<card id="a7198cfd-c50a-4069-a4fa-8eeef13545a5" name="Special 3">
+<property name="Card Number" value="C53-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: Draw a card for each CONSTANT effect Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="3" />
+</card>
+<card id="8ffe2601-86fb-417f-954d-c1fa920c0637" name="Special 4">
+<property name="Card Number" value="C54-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="DEFEND: If you control a Blue Lantern Character, prep up to 2 target Characters." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="9964f1a0-9bb1-46ab-a425-5221ddbe192b" name="Special 4">
+<property name="Card Number" value="C55-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="ATTACK: If you did not play a Character this turn, this attack can only be defended by a Battle Card with a rank of 5 or higher." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="5278f14b-7b7e-48d6-899c-12bd924b4c8a" name="Special 5">
+<property name="Card Number" value="C56-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Draw a card for each Basic Battle Card that has been played this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="01069c66-0d0f-4fe4-bee8-321b4af6eb89" name="Special 5">
+<property name="Card Number" value="C57-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Discard an Orange Lantern Character from your hand to discard a random card from your opponents hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="05ce2cf8-c1eb-4b8e-bb20-7ce13be54407" name="Special 6">
+<property name="Card Number" value="C58-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Search your discard pile for a Star Sapphire Character and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="d283bc6d-181c-42c9-be2b-39f739353dec" name="Special 7">
+<property name="Card Number" value="C59-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If you control three different Traits, place target Character outside of the Battle Zone on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="ae4419fc-ea3a-4011-8c8a-435938f0a181" name="Special 7">
+<property name="Card Number" value="C60-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you have played two Basic Battle Cards this turn, gain 1 VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="13816345-a6fc-4466-a586-f9cb7db47b02" name="Hal Jordan - Former Test Pilot">
+<property name="Card Number" value="U61-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Hero" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this card pushes to attack, each player draws a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="f3dae6d4-1ab6-4244-a11b-d02a77de15a8" name="Saint Walker - The Power of Hope">
+<property name="Card Number" value="U62-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Blue Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Negate any effects that would discard 1 or more cards from a players hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="fde18a20-8b1b-4504-9838-2976da628dc1" name="Nekron - Death Entity">
+<property name="Card Number" value="U63-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Black Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Discard a random card from your VP Pile to discard the top 2 cards of your opponents deck." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="db3cb330-669a-4953-92ef-c0ee10e8e2ac" name="Green Lantern - Abin Sur">
+<property name="Card Number" value="U64-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="4" />
+<property name="Text" value="CONSTANT: Your Green Lantern Characters may use PUSH effects the same turn they enter play." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="d695d49e-5e13-4587-8ef1-c74ab46292f6" name="Green Lantern - Green Gladiator">
+<property name="Card Number" value="U65-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Place this card on top of its owners deck to search your deck for a Battle Card and place it in your hand." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="bec6d73d-47fb-4730-b18f-677115032c50" name="Green Lantern - Guy Gardner">
+<property name="Card Number" value="U66-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this Character pushes to attack, push target Character with a maximum rank of 5." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="7c90037e-1bd0-4781-8a5e-921ad3994217" name="Green Lantern - Kilowog">
+<property name="Card Number" value="U67-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="CONSTANT: Whenever this card Links to a Team Attack, push target Character." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="c25c400b-4b70-458a-abb7-9e5b8c7d94e4" name="Green Lantern - Kyle Rayner">
+<property name="Card Number" value="U68-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Prep all Characters you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="6aeb8606-bccb-45dd-b848-c4c84cdb41cf" name="Green Lantern - Sinestro">
+<property name="Card Number" value="U69-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: Return target pushed Character to its owners hand." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="10562702-2501-4b68-b14f-7d51068031db" name="Green Lantern - Tomar-Re">
+<property name="Card Number" value="U70-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="PUSH: Push or prep target Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="5" />
+</card>
+<card id="3538d5e1-b570-44f5-bff8-8b7727af3c49" name="Kilowogg - Drill Sergeant">
+<property name="Card Number" value="U71-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="0" />
+<property name="Text" value="PUSH: Reveal a Green Lantern Character from your hand and KO this card to place a Character your opponent controls on top of its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="bfd34c40-78a5-4f49-bad1-38be8405aa52" name="Green Lantern - Jade">
+<property name="Card Number" value="U72-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="0" />
+<property name="Text" value="PUSH: If your hand has exactly 3 cards in it, draw 2 cards." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="911db37f-24a7-4496-aac0-cebb08104a3a" name="Larfleeze - Orange God">
+<property name="Card Number" value="U73-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Orange Lantern" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: If you control another Orange Lantern Character, you may KO all Characters with a maximum Rank of 5." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="e67e90b4-461f-4972-97fe-0f3d4bbb62cc" name="Atrocitus - Survivor">
+<property name="Card Number" value="U74-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Red Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever this card leaves play during the Planning Step, draw 2 cards." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="a20ffca5-6e9d-4da3-9c90-11c8a375cb2b" name="Bleez - Crown Princess">
+<property name="Card Number" value="U75-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Red Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: The first time each turn another Character is KOd, draw a card." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="fe4cc46a-1861-4064-b184-e81b4d0d5e72" name="Guy Gardner - Sector 2814">
+<property name="Card Number" value="U76-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Red Lantern" />
+<property name="MP" value="0" />
+<property name="Text" value="PLAY: Play a Red Lantern Character with a Special Stat from your hand or discard pile." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="67f04802-0188-4443-9d7c-db09f80109fd" name="Beware Your Fears">
+<property name="Card Number" value="U77-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Negate the effects of Battle Cards used to defend against Sinestro Corps and Black Lantern Characters this turn. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="77e11bc3-e47f-45c7-b2b0-901555a5e197" name="Blood and Rage">
+<property name="Card Number" value="U78-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="If you control only Red Lantern Characters, only Red Lantern Characters may declare attacks until the end of your next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a55838cb-a68b-42a0-817d-ee0f9ffcd845" name="Burn You All">
+<property name="Card Number" value="U79-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If you control a Red Lantern Character, discard the top 3 cards of your deck to KO target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="965386d1-f3db-4d9c-b146-16b7cef32ad8" name="Communion">
+<property name="Card Number" value="U80-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you control an Indigo Tribe Character, your opponent swaps a random card from their hand facedown with a random card in your VP Pile. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0ae499c8-0e80-49ef-8ee8-97da6de77796" name="Green Lanterns Light">
+<property name="Card Number" value="U81-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Search your deck for a Green Lantern Character with a maximum rank of 6 or less and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9055af57-7eef-4477-8d26-5ab2189e7d74" name="Hope Burns Bright">
+<property name="Card Number" value="U82-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If you control a Blue Lantern Character, search your deck for a Blue Lantern or Green Lantern Character and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="50b0bd46-1352-4f74-9470-ecb692c4e131" name="In Blackest Night">
+<property name="Card Number" value="U83-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="If you control a Sinestro Corps Character, place a random card from your opponents hand on top of their deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="205a0978-92ff-42f5-b8ce-6584ddc069d3" name="In Brightest Day">
+<property name="Card Number" value="U84-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Discard a Green Lantern Character from your hand to draw 2 cards, then shuffle this card into its owners deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="8c0b8af6-2a78-4f56-93aa-adffce7fa244" name="In Raging Night">
+<property name="Card Number" value="U85-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="KO a Blue Lantern Character you control to draw 2 cards. If you have 10 MP, you may reveal a Blue Lantern Character from your hand to KO target Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="fff167cb-a73c-4af7-8137-722ef0d1c8b9" name="Man Beyond Tomorrow">
+<property name="Card Number" value="U86-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Search your deck for a Superman Character and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="eb422508-fc26-48cc-9340-e8f23e78e5f9" name="Not Yours!">
+<property name="Card Number" value="U87-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Each player draws up to 2 cards. You may discard an Orange Lantern Character from your hand to draw 3 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="975ae32e-cb8d-4feb-ab2c-56bdfc0cb057" name="Power Players">
+<property name="Card Number" value="U88-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Target Character loses all effects until that Character leaves play." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ebb67282-b062-4f68-9b43-f5aab51ef60d" name="Sifting Through the Wreckage">
+<property name="Card Number" value="U89-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Place a Battle Card from your discard pile into your hand. Your Battle Card effects are negated this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="a24f87a5-f374-48ed-aa24-732fc1d56fc3" name="The Darkness Grows">
+<property name="Card Number" value="U90-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Place a Black Lantern Character from your discard pile facedown into your opponents VP Pile to gain 1 VP and 4 MP. Draw a card." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="3d758537-bee2-4185-a64e-f1fc2da2ffc9" name="Whats Mine Is Mine">
+<property name="Card Number" value="U91-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Your Characters cannot be targeted until the end of your next turn. If you control an Orange Lantern Character, draw 3 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="59b3de52-bcee-4b2e-a60f-130f5b33c440" name="Strength 2">
+<property name="Card Number" value="U92-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="3" />
+<property name="Text" value="The next Multi-Stat Battle Card you play this turn has its MP cost reduced to 0." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="19ebe37f-cc9c-4e86-b290-7a47e8bd705d" name="Strength 3">
+<property name="Card Number" value="U93-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="If you control a Green Lantern Character, push target Character with Damage attached." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="dffede19-8d10-4281-8be6-58ac262c2e32" name="Strength 4">
+<property name="Card Number" value="U94-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: Battle Cards cannot be attached to your Red Lantern Characters this turn." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9a82659d-a49a-4ca3-95e4-cc395c60508b" name="Intelligence 1">
+<property name="Card Number" value="U95-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Look at the top 2 cards of your deck and return them to the top or bottom of your deck, then draw the bottom card of your deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="1" />
+<property name="Special" value="" />
+</card>
+<card id="9756aafb-f50a-46ad-8c6b-310dac6fe914" name="Intelligence 3">
+<property name="Card Number" value="U96-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="If this card is used by a White Lantern Character, you may set your MP to the same total as that of your opponent." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="" />
+</card>
+<card id="89ed207a-58a7-49e3-bcf1-ad16ba9af4a9" name="Intelligence 5">
+<property name="Card Number" value="U97-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: If you control a Sinestro Corps Character, Events cost an additional -2 MP until the end of your next turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="" />
+</card>
+<card id="a65b3e98-b6cf-42fa-b991-7db4b0a016ac" name="Special 4">
+<property name="Card Number" value="U98-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="DEFEND: If the Character using this card is KOd this turn, search your deck for a Character with a maximum rank of 5 and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="2eceb1de-9d8a-4a03-a5cd-70782f838259" name="Special 5">
+<property name="Card Number" value="U99-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="2" />
+<property name="Text" value="DEFEND: Search your discard pile for a Basic Battle Card and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="5" />
+</card>
+<card id="3beb9a88-a54f-4362-ab93-026f69209942" name="Special 6">
+<property name="Card Number" value="U100-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="If this card is used by a Black Lantern Character, you opponent chooses to discard a card from their hand or discard the top 3 cards of their deck." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="1619f335-3024-4e97-aec5-b9e9eff8ff9e" name="Sinestro - Tyrant">
+<property name="Card Number" value="R101-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: If this card is defended, KO the defending Character at the end of the turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="c0771aa4-8cdd-4d9d-8a25-526c71d5ec34" name="Green Arrow - Hand of Death">
+<property name="Card Number" value="R102-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Black Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Choose for all players to discard a card from their hand or for all players to KO a Character they control" />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="74dabedc-ba04-4dbb-aa33-4d7072628815" name="Black Hand - William Hand">
+<property name="Card Number" value="R103-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Black Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Negate the effects of target Character until this card leaves play." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="6" />
+</card>
+<card id="26a733e8-7478-4712-87fa-c8a5eb435d1a" name="Kyle Rayner - Beacon of Hope">
+<property name="Card Number" value="R104-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Blue Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Search your deck for 2 Basic Battle Cards and place them in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="7" />
+</card>
+<card id="ff2ea735-0504-4e43-a6eb-2291e0eb7708" name="Saint Walker - BroDee Walker">
+<property name="Card Number" value="R105-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Blue Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: After you play a Basic Battle Card, gain +2 MP." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="f270f2f3-ff39-4f70-acfa-c29e2dd6d064" name="Green Lantern - John Stewart">
+<property name="Card Number" value="R106-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: This card can only be KOd by an HP KO." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="" />
+</card>
+<card id="ed45eb7d-ec87-4fb8-bb0b-b9e15dbb97bc" name="Atom - Sector 2814">
+<property name="Card Number" value="R107-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Indigo Tribe" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Use the PLAY effect of target Character your opponent controls." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="5" />
+</card>
+<card id="ebb4bb13-17f6-4390-9db5-0d40270d9c5c" name="Iroque - Indigo-1">
+<property name="Card Number" value="R108-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Indigo Tribe" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: While you control another Indigo Tribe Character, your opponents CONSTANT effects are negated." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="f9931753-a974-4561-9496-2cf731062684" name="Agent Orange - Ogatoo Thief">
+<property name="Card Number" value="R109-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Orange Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever an opponent draws 1 or more cards during the Planning Step, draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="7" />
+</card>
+<card id="b0b77ad3-1a6d-432c-b171-9995c75eeada" name="Hal Jordan - Insatiable Greed">
+<property name="Card Number" value="R110-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Orange Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Negate any effects that would gain a VP." />
+<property name="Strength" value="1" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="58bb63ee-f7d0-4cd6-ba46-ee03b709f84b" name="Atrocitus - Atros">
+<property name="Card Number" value="R111-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Red Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Draw 2 cards, then KO a Character you control." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="163bd974-79cb-4df0-9138-67b4983d8ce2" name="Lyssa Drak - Bookkeeper">
+<property name="Card Number" value="R112-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="3" />
+<property name="Text" value="PLAY: You may reveal a Character from your hand. If that Character is a Sinestro Corps Character, your opponent loses 4 MP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="6" />
+</card>
+<card id="b105f53f-8f58-4e46-9520-415436059080" name="The Anti-Monitor - Guardian of Fear">
+<property name="Card Number" value="R113-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="1" />
+<property name="Text" value="PUSH: Place this card in your opponents VP Pile facedown to shuffle all Characters into their owners decks, then end your turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="15f133fb-3aed-4f82-8d7f-4972e8664e8a" name="Star Sapphire - Carol Ferris">
+<property name="Card Number" value="R114-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Star Sapphire" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Whenever one of your Star Sapphire Characters is targeted, draw a card." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="6" />
+</card>
+<card id="155ad0df-9163-4989-9af7-c8b21b8b06d3" name="Wonder Woman - Ambassador of Peace">
+<property name="Card Number" value="R115-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Star Sapphire" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: If you control fewer Characters than your opponent, you may play a Star Sapphire Character from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="7" />
+</card>
+<card id="68c6430c-677a-41ce-9c94-276076cc77fa" name="Kyle Rayner - Defender of Peace">
+<property name="Card Number" value="R116-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="White Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Discard all attached non-Multi-Stat Battle Cards." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="7" />
+</card>
+<card id="fb458788-d6a3-4b62-8c9a-cfa913c92ee3" name="Beware My Power">
+<property name="Card Number" value="R117-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw a card for each Lantern Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="f2249d08-b20d-421b-bc55-2664178d62e6" name="Black Hole">
+<property name="Card Number" value="R118-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="At the end of your turn, draw a card for each Character that was KOd this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="cc2ed782-7cc2-4be2-b48e-06aad1e59899" name="Burst of Power">
+<property name="Card Number" value="R119-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Shuffle any number of cards from your hand into your deck, then draw the same amount back." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="ac039b88-6040-46e0-b0e5-8a2e5648a7d8" name="Coming Storm">
+<property name="Card Number" value="R120-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Your Characters may attack with Rank 5 or higher Battle Cards from your discard pile this turn." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="129808bc-c593-4c50-b8ea-2566208d907e" name="Endless Brawl">
+<property name="Card Number" value="R121-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="At the end of the Battle Step, KO all Characters in the Battle Zone." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="7fc98b35-160d-4536-ae3d-ef243189f33c" name="Heroism">
+<property name="Card Number" value="R122-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Draw 2 cards for each pushed Character you control." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="94722d0a-a401-4c68-953f-991b84e4c277" name="Join Our Fight">
+<property name="Card Number" value="R123-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="If you control fewer Characters than your opponent, push target Character and you may play a Star Sapphire Character from your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="008420b8-3c0d-4da5-8dde-602bff68e308" name="Legion of Doom">
+<property name="Card Number" value="R124-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Discard a Villain Character from your hand to search your deck for 2 Villain Characters and place them into your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d75117ef-858c-4e60-ba9a-bec7346954c9" name="Power Ring">
+<property name="Card Number" value="R125-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="Discard any Lantern Character from your hand to return target Character to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="0d86d98a-3ef5-4946-9c05-9ce242485cde" name="Purifying Shield">
+<property name="Card Number" value="R126-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Discard a White Lantern Character from your hand to discard all attached Battle Cards and a random card from your opponents VP Pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2cf548a8-245f-4dab-b974-e40a31c30b2c" name="Shifting the Meta">
+<property name="Card Number" value="R127-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-5" />
+<property name="Text" value="Choose an attached Battle Card and attach it to another Character." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="6c8e1ced-8ab8-46f8-b851-2e8961e11fc4" name="The Dead Shall Rise">
+<property name="Card Number" value="R128-GL" />
+<property name="Type" value="Event" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Discard a Black Lantern Character from your hand to play an Event from your opponents discard pile at 0 MP cost." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="2efc7f09-df8f-4861-a6c3-e1fc7bb46add" name="Strength 5">
+<property name="Card Number" value="R129-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="Discard a card from your hand to draw 2 cards." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="9d0f914d-7510-4f55-9175-2d76505ecfd1" name="Strength 6">
+<property name="Card Number" value="R130-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: You may Link target Character to a Team Attack this turn for 0 MP." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="1ab21e2f-65dc-4101-972d-51b39aee0202" name="Strength 7">
+<property name="Card Number" value="R131-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="ATTACK: This card may be played by any Red Lantern Character." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="" />
+<property name="Special" value="" />
+</card>
+<card id="d26a3175-15ed-4fdf-a727-08d4272bc356" name="Intelligence 4">
+<property name="Card Number" value="R132-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="0" />
+<property name="Text" value="DEFEND: If your opponent declared a Team Attack this turn, discard a random card from your opponents VP Pile." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="cb2ae0ca-1a0e-4c37-84cc-3d1f10a852f5" name="Intelligence 7">
+<property name="Card Number" value="R133-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="DEFEND: Discard target Battle Card in the Battle Zone, then return its user to its owners hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="a4b3364e-faac-43e1-adc2-4fda0335a4af" name="Intelligence 7">
+<property name="Card Number" value="R134-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-9" />
+<property name="Text" value="DEFEND: End the Battle Step (Damage is not assigned)." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="" />
+</card>
+<card id="a8b902bd-cdc4-467c-b7d2-48a0a85498e8" name="Special 4">
+<property name="Card Number" value="R135-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="1" />
+<property name="Text" value="ATTACK: If this card is used by a Sinestro Corps Character, you may push target Character with a Rank of 7." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="4" />
+</card>
+<card id="d39dd191-b744-4b3f-94ec-390f422a9698" name="Special 6">
+<property name="Card Number" value="R136-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="ATTACK: If this card is used by a Green Lantern Character and is not defended, return it to your hand after gaining a VP." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="6" />
+</card>
+<card id="3418367b-ba3f-4b6d-b4b9-78806ff65e54" name="Special 7">
+<property name="Card Number" value="R137-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-2" />
+<property name="Text" value="Draw 2 cards." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="" />
+<property name="Special" value="7" />
+</card>
+<card id="ce5f40c3-f748-4715-a317-5c9e5169d550" name="Strength / Intelligence / Special 5">
+<property name="Card Number" value="R138-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-1" />
+<property name="Text" value="Shuffle a White Lantern Character from your discard pile into your deck to return an attached Battle Card to its owners hand." />
+<property name="Strength" value="5" />
+<property name="Intelligence" value="5" />
+<property name="Special" value="5" />
+</card>
+<card id="34f86f4d-9e50-49a9-9772-34acedac8041" name="Strength / Intelligence / Special 6">
+<property name="Card Number" value="R139-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-3" />
+<property name="Text" value="If you control 3 Characters with the same Trait, draw 2 cards." />
+<property name="Strength" value="6" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="6" />
+</card>
+<card id="c6ea52bb-78c7-411c-b57a-5a263d8fa9e6" name="Strength / Intelligence / Special 7">
+<property name="Card Number" value="R140-GL" />
+<property name="Type" value="Battle" />
+<property name="Trait" value="" />
+<property name="MP" value="-4" />
+<property name="Text" value="If this card is used by a Lantern Character, gain +5 MP." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="7" />
+<property name="Special" value="7" />
+</card>
+<card id="a607d250-d23d-4bb1-b72b-83eaa5bef825" name="Batman - Reanimated">
+<property name="Card Number" value="XR141-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Black Lantern" />
+<property name="MP" value="3" />
+<property name="Text" value="CONSTANT: Whenever this card gains a VP, discard the top 2 cards of your oppenents deck." />
+<property name="Strength" value="3" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="6" />
+</card>
+<card id="a76b43fe-b86a-41e1-9536-ad641959d05d" name="Parallax - Hal Jordan">
+<property name="Card Number" value="XR142-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Battle Cards with a rank of 3 or less cannot be attached to this card." />
+<property name="Strength" value="4" />
+<property name="Intelligence" value="6" />
+<property name="Special" value="7" />
+</card>
+<card id="da880cf4-d350-4a05-92b6-ce201f7042a4" name="Sinestro - Master Tactician">
+<property name="Card Number" value="XR143-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Sinestro Corps" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Shuffle two Characters with a maximum rank of 5 from your discard pile into your deck to KO target Character." />
+<property name="Strength" value="2" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="7" />
+</card>
+<card id="cffc5271-0ec5-40f0-b803-1238d1ec432d" name="Superman - Protector of Life">
+<property name="Card Number" value="XR144-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="White Lantern" />
+<property name="MP" value="1" />
+<property name="Text" value="PLAY: Choose a Battle Card that is attached to a White Lantern Character and attach it to another Character." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="4" />
+<property name="Special" value="" />
+</card>
+<card id="7f5e2924-9045-431a-98bc-d1276d253e33" name="Superboy-Prime - Unstoppable">
+<property name="Card Number" value="UR145-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Villain" />
+<property name="MP" value="2" />
+<property name="Text" value="CONSTANT: Negate any effect that would search a deck. At the start of each of your turns you may name a Trait. This card gains that Trait until a new Trait is named by this effect." />
+<property name="Strength" value="7" />
+<property name="Intelligence" value="2" />
+<property name="Special" value="6" />
+</card>
+<card id="d7a98da3-7a5b-4723-b346-6e3526c1127d" name="Green Lantern - Emerald Knight">
+<property name="Card Number" value="UR146-GL" />
+<property name="Type" value="Character" />
+<property name="Trait" value="Green Lantern" />
+<property name="MP" value="2" />
+<property name="Text" value="PLAY: Search your deck for a Green Lantern Character and place it in your hand." />
+<property name="Strength" value="" />
+<property name="Intelligence" value="3" />
+<property name="Special" value="7" />
+</card>
+</cards>
+</set>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+      name="Panini's MetaX Patch Testing" 
+      id="fc640978-3b90-4e62-ac0d-55c3cb43961a" 
+      octgnVersion="3.1.2.0" 
+      version="0.0.0.4"
+      markersize="20"
+      tags="Panini, Justice League"
+      description="MetaX Trading Card Game, by Panini"
+      setsurl="http://placeholder.com"
+      gameurl="http://placeholder.com"
+	  iconurl="http://placeholder.com/placeholder.jpg"
+      authors="Brandon Shollenberger"
+	  scriptVersion="3.1.0.2">
+<scripts>
+<script src="scripts/actions.py" />
+</scripts>
+<events>
+   <event name="OnLoadDeck" action="loadDeck" />
+</events>
+<fonts></fonts>
+<proxygen definitionsrc="proxy/proxydef.xml"></proxygen>
+<documents></documents>
+<globalvariables></globalvariables>
+<card back="Cards/front.png" front="Cards/front.png" width="63" height="88">
+	<property name="Card Number" type="String" />
+	<property name="Type" type="String" />
+	<property name="MP" type="String" />
+	<property name="Strength" type="String" />
+	<property name="Intelligence" type="String" />
+	<property name="Special" type="String" />
+	<property name="Text" type="String" />
+	<property name="Trait" type="String" />
+</card>
+<table name="Table" visibility="undefined" ordered="False" width="500" height="380" background="Board/background.jpg" backgroundStyle="uniformToFill">
+   <groupaction menu="Clear targets" shortcut="Esc" execute="clearAll" />
+   <groupaction menu="Roll a die" shortcut="Ctrl+R" execute="roll20" />
+   <groupaction menu="Flip a coin" shortcut="Ctrl+F" execute="flipCoin" />
+   <groupaction menu="Untap All" shortcut="F1" execute="untapAll" />
+   <cardaction menu="Tap / Untap" default="True" shortcut="ctrl+G" execute="tap" />
+   <cardaction menu="Flip Up/Down" execute="flip" />
+   <cardaction menu="Discard" shortcut="Del" execute="discard" />
+</table>
+<player summary="Hand: {#Hand} / MP: {#MP} / VP: {#VP}">
+   <globalvariable name="phase" value="0" /> 
+	<counter name="MP" icon="Counters/mp.png" default="0" />
+	<hand name="Hand" visibility="me" ordered="False" width="63" height="88" icon="cards/front.png">
+	<groupaction menu="Random Discard" shortcut="Ctrl+V" execute="randomDiscard" />
+</hand>
+	<group name="Deck" visibility="none" width="63" height="88" icon="cards/front.png" shortcut="F5">
+    <groupaction menu="Draw" default="True" shortcut="Ctrl+D" execute="draw" />
+    <groupaction menu="Draw X..." shortcut="Ctrl+X" execute="drawMany" />
+    <groupaction menu="Draw from bottom" shortcut="Ctrl+Alt+D" execute="drawBottom" />
+    <groupaction menu="Shuffle" shortcut="Ctrl+S" execute="shuffle" />
+	<groupaction menu="Top card as VP" execute="topCardVP" />
+	</group>
+    <group name="Discard Pile" visibility="all" width="63" height="88" icon="cards/front.png" shortcut="F6"></group>
+    <group name="VP" visibility="none" width="63" height="88" icon="cards/front.png" collapsed="True" shortcut="F7">
+	<groupaction menu="Random Draw" execute="randomDraw" /></group>
+    <group name="Sideboard" visibility="none" width="63" height="88" icon="cards/front.png" collapsed="True" shortcut="F7"></group>	
+
+</player>
+<shared>
+</shared>
+<deck>
+	<section name="Deck" group="Deck" />
+	<section name="Sideboard" group="Sideboard" />
+</deck>
+</game>
